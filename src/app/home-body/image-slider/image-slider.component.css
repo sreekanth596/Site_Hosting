@@ -1,0 +1,59 @@
+/* Overall container for the slider */
+.slider-container {
+
+    margin-left: -10%;
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  /* Container for the slides */
+  .slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  /* Individual slide */
+  .slide {
+    flex: 0 0 100%;
+    max-width: 100%;
+    overflow: hidden;
+  }
+  
+  /* Image within each slide */
+  .slide img {
+    max-width: 40%;
+    height: auto; /* Ensures aspect ratio is maintained */
+  }
+  
+  /* Previous and next navigation buttons */
+  .prev,
+  .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1000;
+    font-size: 24px;
+    background: rgba(255, 255, 255, 0.5); /* Semi-transparent white background */
+    padding: 10px;
+    border: none;
+    color: #333; /* Text color */
+  }
+  
+  .prev:hover,
+  .next:hover {
+    background: rgba(0, 0, 0, 0.5); /* Darker semi-transparent background on hover */
+    color: #fff; /* Text color on hover */
+  }
+  
+  /* Positioning of previous and next buttons */
+  /* .prev {
+    left: 10px;
+  }
+  
+  .next {
+    right: 10px;
+  } */
+  

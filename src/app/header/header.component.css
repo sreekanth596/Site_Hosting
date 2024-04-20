@@ -1,0 +1,341 @@
+/* Styling for the header */
+:host {
+    display: block;
+}
+
+/* Styling for the header */
+header {
+    background-image: url('images/background1.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+/* Styling for the logo */
+.logo {
+    width: 280px;
+    height: 280px;
+    background-image: url('images/logo1.png');
+   margin-top: 0%;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: 250px; /* Add margin at the bottom */
+}
+
+/* Styling for the heading */
+.heading {
+    font-size: 65px;
+    font-weight: bold;
+    margin-top: 0%;
+    margin-left: 10px; /* Add margin to the left of the heading */
+    text-align: center;
+    white-space: nowrap; /* Prevent text from wrapping onto multiple lines */
+}
+
+/* Styling for the picture */
+.picture {
+    width: 150px;
+    height: 150px;
+    background-image: url('images/logo2.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 0%;
+    margin-left: 250px;
+   
+}
+
+/* Styling for the buttons */
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: -3%;
+}
+
+.buttons button {
+    background-color: transparent; /* Make button background transparent */
+    border: none; /* Remove button border */
+    margin: 8px; /* Add some margin between buttons */
+    padding: 48px 58px; /* Add padding to buttons */
+    cursor: pointer; /* Change cursor to pointer */
+    
+}
+
+.buttons button a {
+    text-decoration: none; /* Remove underline from anchor tags */
+    color: black; /* Set text color */
+}
+
+/* Define background images for each button */
+.buttons button:nth-child(1) {
+   background-size: 200px;
+    background-image: url('images/button.jpg'); /* Path to the background image for the first button */
+}
+
+.buttons button:nth-child(2) {
+    background-size: 200x;
+    background-image: url('images/button.jpg'); /* Path to the background image for the second button */
+}
+
+.buttons button:nth-child(3) {
+    background-size: 200px;
+    background-image: url('images/button.jpg'); /* Path to the background image for the third button */
+}
+
+.buttons button:nth-child(4) {
+    background-size: 200px;
+    background-image: url('images/button.jpg'); /* Path to the background image for the fourth button */
+}
+.buttons button:nth-child(5) {
+    background-size: 200px;
+    background-image: url('images/button.jpg'); /* Path to the background image for the fourth button */
+}
+.buttons button:nth-child(6) {
+    background-size: 200px;
+    background-image: url('images/button.jpg'); /* Path to the background image for the fourth button */
+}
+
+/* Additional styles for button backgrounds */
+.buttons button {
+    background-size: cover; /* Cover the entire button with the background image */
+    background-position: center; /* Center the background image */
+}
+.buttons button a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px; /* Added 'px' unit */
+    font-weight: bold; /* Added to make text bold */
+}
+
+
+
+
+
+/* Media Query for Mobile Devices */
+@media screen and (max-width: 1300px) {
+    .header-content {
+      
+        text-align: center;
+    }
+
+    .picture {
+        width: 150px;
+        height: 150px;
+        margin-left: 50px;
+        margin-bottom: 10px;
+    }
+    .logo {
+        width: 150px;
+        height: 150px;
+        margin-right: 50px;
+        margin-bottom: 10px;
+    }
+
+    .heading {
+        font-size: 40px;
+    }
+    .buttons button {
+        padding: 4px 6px;
+        font-size: 10px;
+    }
+    .buttons button {
+        padding: 2px 4px;
+        font-size: 6px;
+    }
+    .buttons button:nth-child(1) {
+        background-size: 150px;
+         background-image: url('images/button.jpg'); /* Path to the background image for the first button */
+     }
+     
+     .buttons button:nth-child(2) {
+         background-size: 150px;
+         background-image: url('images/button.jpg'); /* Path to the background image for the second button */
+     }
+     
+     .buttons button:nth-child(3) {
+         background-size: 150px;
+         background-image: url('images/button.jpg'); /* Path to the background image for the third button */
+     }
+     
+     .buttons button:nth-child(4) {
+         background-size: 150px;
+         background-image: url('images/button.jpg'); /* Path to the background image for the fourth button */
+     }
+     .buttons button:nth-child(5) {
+        background-size: 150px;
+        background-image: url('images/button.jpg'); /* Path to the background image for the fourth button */
+    }
+    .buttons button:nth-child(6) {
+        background-size: 150px;
+        background-image: url('images/button.jpg'); /* Path to the background image for the fourth button */
+    }
+    .buttons button {
+        background-color: transparent; /* Make button background transparent */
+        border: none; /* Remove button border */
+        margin: 8px; /* Add some margin between buttons */
+        padding: 25px 35px; /* Add padding to buttons */
+        cursor: pointer; /* Change cursor to pointer */
+        
+    }
+    .buttons button a {
+        color: white;
+        text-decoration: none;
+        font-size: 12px; /* Added 'px' unit */
+        font-weight: bold; /* Added to make text bold */
+    }
+    
+}
+@media screen and (max-width: 800px) {
+    .header-content {
+      
+        text-align: center;
+    }
+
+    .picture {
+        width: 120px;
+        height: 120px;
+        margin-left: 0px;
+        margin-bottom: 10px;
+    }
+    .logo {
+        width: 120px;
+        height: 120px;
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+
+    .heading {
+        font-size: 25px;
+    }
+
+    .buttons button {
+        padding: 4px 6px;
+        font-size: 10px;
+    }
+    .buttons button {
+        padding: 2px 4px;
+        font-size: 6px;
+    }
+    .buttons button:nth-child(1) {
+        background-size: 80px;
+         background-image: url('images/button.jpg'); /* Path to the background image for the first button */
+     }
+     
+     .buttons button:nth-child(2) {
+         background-size: 80px;
+         background-image: url('images/button.jpg'); /* Path to the background image for the second button */
+     }
+     
+     .buttons button:nth-child(3) {
+         background-size: 80px;
+         background-image: url('images/button.jpg'); /* Path to the background image for the third button */
+     }
+     
+     .buttons button:nth-child(4) {
+         background-size: 80px;
+         background-image: url('images/button.jpg'); /* Path to the background image for the fourth button */
+     }
+     .buttons button:nth-child(5) {
+        background-size: 80px;
+        background-image: url('images/button.jpg'); /* Path to the background image for the fourth button */
+    }
+    .buttons button:nth-child(6) {
+        background-size: 80px;
+        background-image: url('images/button.jpg'); /* Path to the background image for the fourth button */
+    }
+    .buttons button {
+        background-color: transparent; /* Make button background transparent */
+        border: none; /* Remove button border */
+        margin: 4px; /* Add some margin between buttons */
+        padding: 10px 20px; /* Add padding to buttons */
+        cursor: pointer; /* Change cursor to pointer */
+        
+    }
+    .buttons button a {
+        color: white;
+        text-decoration: none;
+        font-size: 8px; /* Added 'px' unit */
+        font-weight: bold; /* Added to make text bold */
+    }
+}
+@media screen and (max-width: 420px) {
+    .header-content {
+      
+        text-align: center;
+    }
+
+    .picture {
+        width: 40px;
+        height: 40px;
+        margin-left: 0;
+        margin-bottom: 0px;
+    }
+    .logo {
+        width: 40px;
+        height: 40px;
+        margin-right: 0;
+        margin-bottom: 0px;
+    }
+
+    .heading {
+        font-size: 15px;
+    }
+
+    .buttons button {
+        padding: 2px 4px;
+        font-size: 6px;
+    }
+    .buttons button:nth-child(1) {
+        background-size: 50px;
+         background-image: url('images/button.jpg'); /* Path to the background image for the first button */
+     }
+     
+     .buttons button:nth-child(2) {
+         background-size: 50px;
+         background-image: url('images/button.jpg'); /* Path to the background image for the second button */
+     }
+     
+     .buttons button:nth-child(3) {
+         background-size: 50px;
+         background-image: url('images/button.jpg'); /* Path to the background image for the third button */
+     }
+     
+     .buttons button:nth-child(4) {
+         background-size: 50px;
+         background-image: url('images/button.jpg'); /* Path to the background image for the fourth button */
+     }
+     .buttons button:nth-child(5) {
+        background-size: 50px;
+        background-image: url('images/button.jpg'); /* Path to the background image for the fourth button */
+    }
+    .buttons button:nth-child(6) {
+        background-size: 50px;
+        background-image: url('images/button.jpg'); /* Path to the background image for the fourth button */
+    }
+    .buttons button {
+        background-color: transparent; /* Make button background transparent */
+        border: none; /* Remove button border */
+        margin: 4px; /* Add some margin between buttons */
+        padding: 5px 10px; /* Add padding to buttons */
+        cursor: pointer; /* Change cursor to pointer */
+        
+    }
+    .buttons button a {
+        color: white;
+        text-decoration: none;
+        font-size: 6px; /* Added 'px' unit */
+        font-weight: bold; /* Added to make text bold */
+    }
+}

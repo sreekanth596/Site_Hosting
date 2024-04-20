@@ -1,0 +1,43 @@
+<div class="content">
+    <div class="left"></div> <!-- Placeholder for content on the left -->
+  
+    <!-- Slider container -->
+    <div class="slider-container">
+        <!-- Panchangam -->
+      
+
+        <div class="slider">
+            <!-- Slide div for each image in the images array -->
+            <div class="slide" *ngFor="let image of images; let i = index" [style.transform]="'translateX(-' + (currentIndex * 100) + '%)'">
+                <!-- Image tag with source bound to the image URL -->
+                <img [src]="image" alt="Image {{i}}">
+            </div>
+        </div>
+        
+        <!-- Navigation buttons for previous and next slides -->
+        <div class="prev" (click)="prevSlide()">&#10094;</div>
+        <div class="next" (click)="nextSlide()">&#10095;</div>  
+    </div>
+    <div class="panchangam" *ngIf="currentPanchangam">
+        <h2>Panchangam</h2>
+        <p class="date">{{ currentDate }}</p>
+        <p class="day">{{ getCurrentDay() }}</p>
+        <p class="pan">Tithi: <span style="color: rgb(0, 0, 0);">{{ currentPanchangam.tithi }}</span></p>
+        <p class="pan">Nakshtram: <span style="color: rgb(0, 0, 0);">{{ currentPanchangam.nakshtram }}</span></p>
+        <p class="pan">Rahukalam: <br> <span style="color: rgb(0, 0, 0);">{{ currentPanchangam.rahukalam }}</span></p>
+        <p class="pan">Durmuhoortham:<br> <span style="color: rgb(0, 0, 0);">{{ currentPanchangam.durmuhoortham }}</span></p>
+         
+    </div>
+    <div class="Devote">  <h2>BECOME A DEVOTEE</h2>
+    
+        <h4>To Become a Devotee via online
+            click the Devotee button</h4>
+            <button class="devote-button">DEVOTEE</button>
+        </div>
+   
+    <!-- Placeholder for content on the right -->
+    <div class="right"></div>
+
+   
+</div>
+

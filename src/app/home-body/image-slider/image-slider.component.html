@@ -1,0 +1,10 @@
+<div class="slider-container">
+  <div class="slider">
+    <div class="slide" *ngFor="let image of images">
+      <img [src]="image" alt="Image">
+    </div>
+  </div>
+  <div class="prev" (click)="prevSlide()">&#10094;</div>
+  <div class="next" (click)="nextSlide()">&#10095;</div>
+</div>
+
