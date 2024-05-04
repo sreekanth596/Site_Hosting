@@ -157,18 +157,18 @@ h2 {
 }
 
 .whatsapp {
-    background-image: url('images/instagram_icon.png'); /* Replace with the path to your WhatsApp icon image */
+    background-image: url('images/whatsapp_icon.png'); /* Replace with the path to your WhatsApp icon image */
 }
 
 .instagram {
-    background-image: url('images/youtube_icon.png'); /* Replace with the path to your Instagram icon image */
+    background-image: url('images/instagram_icon.png'); /* Replace with the path to your Instagram icon image */
 }
 
 .youtube {
-    background-image: url('images/Facebook_Logo.png'); /* Replace with the path to your YouTube icon image */
+    background-image: url('images/youtube_icon.png'); /* Replace with the path to your YouTube icon image */
 }
 .facebook {
-    background-image: url('images/whatsapp_icon.png'); /* Replace with the path to your YouTube icon image */
+    background-image: url('images/Facebook_Logo.png'); /* Replace with the path to your YouTube icon image */
 }
 
 
@@ -178,6 +178,12 @@ h2 {
         font-size: 14px; /* Adjust font size for smaller screens */
     }
 
+    .footer-menu li{
+        margin: 5px 5px; /* Added margin to create space between menu items */
+        display: inline-block; /* Display items horizontally */
+        font-size: 18px;
+        width: calc(50% - 10px);
+    }
     .middle-section header {
         background-size: 70% auto; /* Adjust background size for smaller screens */
         font-size: 20;
@@ -264,6 +270,13 @@ h2 {
         font-size: 8px; /* Adjust font size for smaller screens */
     }
 
+
+    .footer-menu li{
+        margin: 5px 5px; /* Added margin to create space between menu items */
+        display: inline-block; /* Display items horizontally */
+        font-size: 12px !important;
+        width: calc(50% - 10px);
+    }
     .middle-section header {
         margin-right: -5%;
         background-size: 70% auto; /* Adjust background size for smaller screens */

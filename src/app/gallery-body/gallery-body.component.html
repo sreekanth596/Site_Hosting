@@ -16,17 +16,13 @@
         <h2>Gallery</h2>
         <div class="image"></div>
         <div class="row">
-          
-              <div class="gallery">
-                <div class="row" *ngFor="let rowIndex of getRows(); let i = index">
-                  <div class="col" *ngFor="let imagePath of getImagesForRow(i)">
-                    <img [src]="'assets/' + imagePath" alt="Gallery Image">
-                  </div>
-                </div>
-              </div>
-              
-              
-    </div>
+          <div class="gallery">
+            <div class="col" *ngFor="let imagePath of imagePaths">
+              <img [src]="'assets/' + imagePath" alt="Gallery Image">
+            </div>
+          </div>
+        </div>
+        
     
     
 </div>
