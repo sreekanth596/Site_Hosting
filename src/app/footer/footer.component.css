@@ -79,9 +79,9 @@ footer {
     color: #fff;
     text-decoration: none;
     font-weight: bold; /* Added to make menu items bold */
-    
-    padding: 10px 20px; /* Added padding to menu items */
-    border-radius: 5px; /* Added border radius to menu items */
+    font-size: 16px;
+  
+   /* Added border radius to menu items */
     transition: background-color 0.3s; /* Added transition effect */
 }
 .social-icons li a {

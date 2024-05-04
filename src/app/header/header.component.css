@@ -30,7 +30,7 @@ header {
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-right: 250px; /* Add margin at the bottom */
+    margin-right: 150px; /* Add margin at the bottom */
 }
 
 /* Styling for the heading */
@@ -38,7 +38,7 @@ header {
     font-size: 65px;
     font-weight: bold;
     margin-top: 0%;
-    margin-left: 10px; /* Add margin to the left of the heading */
+    margin-left: 0%; /* Add margin to the left of the heading */
     text-align: center;
     white-space: nowrap; /* Prevent text from wrapping onto multiple lines */
 }
@@ -52,22 +52,17 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     margin-top: 0%;
-    margin-left: 250px;
+    margin-left: 200px;
    
 }
 
 /* Styling for the buttons */
-.buttons {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-top: -3%;
-}
+
 
 .buttons button {
     background-color: transparent; /* Make button background transparent */
     border: none; /* Remove button border */
-    margin: 8px; /* Add some margin between buttons */
+    margin: 0px; /* Add some margin between buttons */
     padding: 48px 58px; /* Add padding to buttons */
     cursor: pointer; /* Change cursor to pointer */
     
@@ -75,44 +70,47 @@ header {
 
 .buttons button a {
     text-decoration: none; /* Remove underline from anchor tags */
+    text-align: center;
     color: black; /* Set text color */
 }
 
 /* Define background images for each button */
 .buttons button:nth-child(1) {
-   background-size: 200px;
+   background-size: 180px;
     background-image: url('images/button.jpg'); /* Path to the background image for the first button */
 }
 
 .buttons button:nth-child(2) {
-    background-size: 200x;
+    background-size: 180x;
     background-image: url('images/button.jpg'); /* Path to the background image for the second button */
 }
 
 .buttons button:nth-child(3) {
-    background-size: 200px;
+    background-size: 180px;
     background-image: url('images/button.jpg'); /* Path to the background image for the third button */
 }
 
 .buttons button:nth-child(4) {
-    background-size: 200px;
+    background-size: 180px;
     background-image: url('images/button.jpg'); /* Path to the background image for the fourth button */
 }
 .buttons button:nth-child(5) {
-    background-size: 200px;
+    background-size: 180px;
     background-image: url('images/button.jpg'); /* Path to the background image for the fourth button */
 }
 .buttons button:nth-child(6) {
-    background-size: 200px;
+    background-size: 180px;
     background-image: url('images/button.jpg'); /* Path to the background image for the fourth button */
 }
 
 /* Additional styles for button backgrounds */
 .buttons button {
+    margin-top: -20%;
     background-size: cover; /* Cover the entire button with the background image */
     background-position: center; /* Center the background image */
 }
 .buttons button a {
+    text-align: center;
     color: white;
     text-decoration: none;
     font-size: 16px; /* Added 'px' unit */

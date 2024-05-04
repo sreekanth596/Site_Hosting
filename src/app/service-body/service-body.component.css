@@ -132,12 +132,117 @@
     position: absolute;
     top: 40px;
     width: 270px;
-    height: 50px;
+    height: 45px;
     background-color: #b03838;
     border: 2px solid #b03838;
     color: #ffffff;
     border-radius: 20px;
-    font-size: 20px; /* Increase the font size */
+    font-size: 16px; /* Increase the font size */
+    cursor: pointer;
+    text-align: center;
+    padding: 5px 20px;
+    transition: background-color 0.3s, color 0.3s;
+    animation: zoomIn 1s infinite; /* Apply the zoomIn animation */
+}
+
+.top-button a {
+    color: inherit; /* Inherit button's text color */
+    text-decoration: none; /* Remove underline */
+}
+.top-button:nth-child(1) {
+    left: 20%;
+}
+
+.top-button:nth-child(2) {
+    left: 43%;
+}
+
+.top-button:nth-child(3) {
+    left: 65%;
+}
+
+.top-button:hover {
+    box-shadow: 0 0 20px rgba(220, 100, 100, 0.8); /* Glow effect on hover */
+    animation: none; /* Disable the animation on hover */
+}
+
+
+
+
+
+
+  .inside-img h2 {
+    position: absolute;
+    top: 12%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+}
+
+
+
+.pooja-service {
+     
+        display: inline-block;
+        width: 41%; /* Adjust as needed */
+        position: relative; /* Add position relative */
+        top: -90px; /* Adjust as needed to move it up or down */   
+}
+.container {
+    position: relative;
+}
+
+.container {
+    display: flex;
+    align-items: center; /* Align items vertically */
+}
+
+.container::before {
+    content: url('images/flower_pooja_servicesnew.png');
+    margin-right: 10px; 
+}
+
+.container p {
+    font-size: 15px;
+    padding: 10px;
+    margin: 0; /* Remove default margin */
+    /* Add other styles for the heading */
+    
+    font-family: "Monaco", sans-serif; /* Change font style */
+
+}
+
+.extra{
+    font-size: 22px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0; /* Remove default margin */
+    /* Add other styles for the heading */
+    margin-top: -6%;
+    font-family: "Monaco", sans-serif; /* Change font style */
+
+/* your-component.component.css */
+
+/* Assuming you have these two images */
+
+
+@keyframes zoomIn {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+
+.top-button {
+    font-weight: bold;
+    position: absolute;
+    top: 40px;
+    width: 240px;
+    height: 45px;
+    background-color: #b03838;
+    border: 2px solid #b03838;
+    color: #ffffff;
+    border-radius: 20px;
+    font-size: 16px; /* Increase the font size */
     cursor: pointer;
     text-align: center;
     padding: 5px 20px;
@@ -161,6 +266,7 @@
 .top-button:hover {
     box-shadow: 0 0 20px rgba(220, 100, 100, 0.8); /* Glow effect on hover */
     animation: none; /* Disable the animation on hover */
+}
 }
 
 

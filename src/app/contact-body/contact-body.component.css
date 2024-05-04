@@ -15,7 +15,7 @@
     background-size: 100% 100%;
     background-position: center;
     font-family: Arial, sans-serif; 
-    height: 1500px;
+    height: 1200px;
 }
 
 
@@ -24,7 +24,7 @@
     top: 8%;
     left: -14%;
     width: 50%; /* Adjust as needed */
-    height: 75%;
+    height: 70%;
     background-image: url('images/Banana_Tree_rigth.png'); /* Specify the left image path */
     background-size: 100% 100%;
     background-position: center;
@@ -35,7 +35,7 @@
     top: 8%;
     right: -14%;
     width: 50%; /* Adjust as needed */
-    height: 75%;
+    height: 70%;
     background-image: url('images/Banana_Tree_left.png'); /* Specify the right image path */
     background-size: 100% 100%;
     background-position: center;
@@ -53,11 +53,11 @@
     background-position: center;
     /* Optional: Add more styling if needed */
     width: 70%; /* Adjust width if needed */
-    height: 86%; /* Adjust height if needed */
+    height: 76%; /* Adjust height if needed */
   }
   .inside-img h2 {
     position: absolute;
-    top: 12%;
+    top: 14%;
     left: 50%;
     transform: translate(-50%, -50%);
     margin: 0;
@@ -75,9 +75,57 @@
     background-position: center 90px; /* Adjust background position as needed */
     background-repeat: no-repeat;
 }
+/* Sreekanth changes */
+.subheader{
+    font-size: 20px;
+    width: 500px;
+    margin: -135px auto 0;
+    color: #f9d40b;
+}
+.addresstext{
+    font-size: 15px;
+    font-weight: 100% !important;
+    margin: -135px auto 0;
+}
+.addresslink{
+    color:white;
+    font-size:15px;
+    text-decoration: none!important;
+}
+#phone-img,#mail-img{
+    font-size: 20px;
+}
+.mapsize{
+    width:500px;
+    height:230px;
+    border:0px;
+}
+.maptext{
+    color: #e9dc12;
+    font-size: 18px;
+    margin: 10px;
+    margin-right: 400px !important;
+}
+.social{
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: left center;
+    width: 34px;
+    height: 34px; 
+    display: inline-block;
+}
 
 
+  .contacttxt{
+    padding: 20px;
+    display: inline-flex; 
+    align-items: center; 
+  }
+  .contactimg {
+    padding: 20px;
+  }
 
+  
 /* your-component.component.css */
 
 /* Assuming you have these two images */
@@ -93,20 +141,23 @@
     font-weight: bold;
     position: absolute;
     top: 40px;
-    width: 270px;
-    height: 50px;
+    width: 240px;
+    height: 45px;
     background-color: #b03838;
     border: 2px solid #b03838;
     color: #ffffff;
     border-radius: 20px;
-    font-size: 20px; /* Increase the font size */
+    font-size: 16px; /* Increase the font size */
     cursor: pointer;
     text-align: center;
     padding: 5px 20px;
     transition: background-color 0.3s, color 0.3s;
     animation: zoomIn 1s infinite; /* Apply the zoomIn animation */
 }
-
+.top-button a {
+    color: inherit; /* Inherit button's text color */
+    text-decoration: none; /* Remove underline */
+}
 
 .top-button:nth-child(1) {
     left: 20%;
@@ -239,7 +290,8 @@
 
 /* Extra styles for smaller screens like mobile phones */
 @media screen and (max-width: 425px) {
-   
+    
+    
 .daran {
     /* This sets the background image */
     background-image: url('images/background_pooja_services.png');
@@ -303,7 +355,31 @@
     background-repeat: no-repeat;
 }
 
+.subheader{
+    font-size: 20px;
+     width: 250px; 
+    margin: -135px auto 0;
+    color: #f9d40b;
+}
 
+.maptext{
+    color: #e9dc12;
+    width: 145px;
+    font-size: 18px;
+    margin: 10px;
+    margin-right: 400px !important;
+}
+
+
+.mapsize{
+    width:200px;
+    height:100px;
+    border:0px;
+}
+
+.contactimg {
+    padding: 10px;
+  }
 
 @keyframes zoomIn {
     0% { transform: scale(1); }

@@ -137,7 +137,7 @@
     height: 27%; /* Adjust height as needed */
     position: absolute;
     bottom: 5%;
-    right: 11%;
+    right: 13%;
     text-align: center;
     color: white;
     font-size: 24px;
@@ -152,6 +152,10 @@
     border-radius: 30px;
     padding: 10px 20px; /* Adjust padding as needed */
     display: inline-block; /*Ensures the background covers the entire heading*/
+}
+.devote-button a {
+    color: inherit; /* Inherit button's text color */
+    text-decoration: none; /* Remove underline */
 }
 .Devote h4 {
     font-size: 23px; /* Adjust font size */
@@ -189,6 +193,105 @@
 
 
 
+
+
+    /* Default styles */
+
+
+.left, .right {
+    margin-top: 2%;
+   
+}
+
+.left {
+    margin-left: -6%;
+    
+}
+
+.right {
+    margin-right: -7%;
+   
+}
+
+
+.panchangam {
+    position: absolute;
+    top: 36%;
+    right: -3%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    padding: 15px;
+    background-image: url('images/Panchagam.png');
+    background-size: 100% 100%; /* Maintain the image's aspect ratio */
+    background-position: center; /* Center the background image */
+    color: white;
+    height: 50%;
+    width: 25%;
+}
+
+.panchangam h2 {
+    margin-top: 13%;
+    font-size: 28px;
+    margin-bottom: 10px;
+    color: red;
+}
+
+.date {
+    margin-top: -1%;
+    font-weight: bold;
+    font-size: 16px;
+    color: #5c0ec9;
+    margin-bottom: 4px; /* Adjust margin-bottom */
+}
+
+.pan {
+    font-weight: bold;
+    font-size: 16px;
+    color: red;
+}
+
+.day {
+    font-weight: bold;
+    font-size: 16px;
+    color: #5c0ec9;
+    margin-top: -6px; /* Adjust margin-top */
+}
+
+.Devote {
+  
+   
+    font-size: 16px;
+}
+.Devote h2 {
+    font-size: 16px; /* Adjust font size for the heading */
+   
+}
+.Devote h4 {
+    margin-top: 1%;
+    font-size: 16px; /* Adjust font size */
+   
+}
+
+
+
+.Devote .devote-button {
+    font-size: 14px;
+    font-weight: bold;
+    display: block;
+    margin: 20px auto; /* Center the button horizontally with 20px top and bottom margin */
+    padding: 10px 20px; /* Adjust padding as needed */
+    background-color: #dc6464; /* Button background color */
+    color: #fff; /* Button text color */
+    border: none; /* Remove border */
+    border-radius: 20px; /* Add some border radius for rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    animation: zoomIn 1s infinite alternate; /* Apply the zoom-in animation */
+}
+
+.Devote .devote-button:hover {
+    box-shadow: 0 0 20px rgba(220, 100, 100, 0.8); /* Glow effect on hover */
+    animation: none; /* Disable the animation on hover */
+}
 
 
 
@@ -308,7 +411,7 @@
 
 /* Media queries for mobile */
 /* Media queries for tablet screens up to 350px */
-@media (max-width: 350px) {
+@media (max-width: 400px) {
     .content {
         background-size: cover; /* Cover the entire screen without zooming */ 
         padding: 0px; /* Adjust padding for smaller screens */

@@ -1,0 +1,310 @@
+/* your-component.component.css */
+
+.daran {
+    /* This sets the background image */
+    background-image: url('images/background_pooja_services.png');
+    background-size: 80%100%; /* Adjust to your needs */
+    background-position: center; /* Adjust to your needs */
+    /* Add more styling properties as needed */
+  
+    height: 150px; /* Set a height for your div */
+}
+.background-image-div {
+    position: relative;
+    background-image: url('images/Background_Theme_1.jpg');
+    background-size: 100% 100%;
+    background-position: center;
+    font-family: Arial, sans-serif; 
+    height: 1500px;
+}
+
+
+.left-background-image {
+    position: absolute;
+    top: 8%;
+    left: -14%;
+    width: 50%; /* Adjust as needed */
+    height: 75%;
+    background-image: url('images/Banana_Tree_rigth.png'); /* Specify the left image path */
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+.right-background-image {
+    position: absolute;
+    top: 8%;
+    right: -14%;
+    width: 50%; /* Adjust as needed */
+    height: 75%;
+    background-image: url('images/Banana_Tree_left.png'); /* Specify the right image path */
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+.inside-img {
+    /* Set the background image */
+
+    /* Set background image size */
+    background-size: 100% 100%;
+    margin-left: 15%;
+    text-align: center;
+    color: #ffffff;
+    /* Set background image position */
+    background-position: center;
+    /* Optional: Add more styling if needed */
+    width: 70%; /* Adjust width if needed */
+    height: 86%; /* Adjust height if needed */
+  }
+ 
+
+  .google-form {
+    height: 1000px;
+    width: 80%; /* Adjust the width as needed */
+}
+
+
+
+/* your-component.component.css */
+
+/* Assuming you have these two images */
+
+
+@keyframes zoomIn {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+
+.top-button {
+    font-weight: bold;
+    position: absolute;
+    top: 40px;
+    width: 240px;
+    height: 50px;
+    background-color: #b03838;
+    border: 2px solid #b03838;
+    color: #ffffff;
+    border-radius: 20px;
+    font-size: 16px; /* Increase the font size */
+    cursor: pointer;
+    text-align: center;
+    padding: 5px 20px;
+    transition: background-color 0.3s, color 0.3s;
+    animation: zoomIn 1s infinite; /* Apply the zoomIn animation */
+}
+
+.top-button a {
+    color: inherit; /* Inherit button's text color */
+    text-decoration: none; /* Remove underline */
+}
+
+.top-button:nth-child(1) {
+    left: 20%;
+}
+
+.top-button:nth-child(2) {
+    left: 43%;
+}
+
+.top-button:nth-child(3) {
+    left: 65%;
+}
+
+.top-button:hover {
+    box-shadow: 0 0 20px rgba(220, 100, 100, 0.8); /* Glow effect on hover */
+    animation: none; /* Disable the animation on hover */
+}
+
+
+@media screen and (max-width: 768px) {
+    /* your-component.component.css */
+
+.daran {
+    /* This sets the background image */
+    background-image: url('images/background_pooja_services.png');
+    background-size:cover; /* Adjust to your needs */
+    background-position: center; /* Adjust to your needs */
+    /* Add more styling properties as needed */
+  
+    height: 100px; /* Set a height for your div */
+}
+.background-image-div {
+    position: relative;
+    background-image: url('images/Background_Theme_1.jpg');
+    background-size: 100% 100%;
+    background-position: center;
+    font-family: Arial, sans-serif; 
+    height: 1000px;
+}
+
+
+.left-background-image {
+   display: none;
+}
+
+.right-background-image {
+   display: none;
+}
+
+.inside-img {
+    /* Set the background image */
+    /* Set background image size */
+    background-size: 100% 100%;
+    margin-left: 5%;
+    text-align: center;
+    color: #ffffff;
+    /* Set background image position */
+    background-position: center;
+    /* Optional: Add more styling if needed */
+    width: 90%; /* Adjust width if needed */
+    height: 86%; /* Adjust height if needed */
+  }
+
+  .google-form {
+    height: 1000px;
+    width: 80%; /* Adjust the width as needed */
+}
+
+
+
+
+@keyframes zoomIn {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+
+.top-button {
+    font-weight: bold;
+    position: absolute;
+    top: 40px;
+    width: 110px;
+    height: 35px;
+    background-color: #b03838;
+    border: 2px solid #b03838;
+    color: #ffffff;
+    border-radius: 20px;
+    font-size: 12px; /* Increase the font size */
+    cursor: pointer;
+    text-align: center;
+    padding: 5px 20px;
+    transition: background-color 0.3s, color 0.3s;
+    animation: zoomIn 1s infinite; /* Apply the zoomIn animation */
+}
+
+
+.top-button:nth-child(1) {
+    left: 20%;
+}
+
+.top-button:nth-child(2) {
+    left: 43%;
+}
+
+.top-button:nth-child(3) {
+    left: 65%;
+}
+
+.top-button:hover {
+    box-shadow: 0 0 20px rgba(220, 100, 100, 0.8); /* Glow effect on hover */
+    animation: none; /* Disable the animation on hover */
+}
+
+}
+
+/* Extra styles for smaller screens like mobile phones */
+@media screen and (max-width: 425px) {
+   
+.daran {
+    /* This sets the background image */
+    background-image: url('images/background_pooja_services.png');
+    background-size:cover; /* Adjust to your needs */
+    background-position: center; /* Adjust to your needs */
+    /* Add more styling properties as needed */
+  
+    height: 100px; /* Set a height for your div */
+}
+.background-image-div {
+    position: relative;
+    background-image: url('images/Background_Theme_1.jpg');
+    background-size: 100% 100%;
+    background-position: center;
+    font-family: Arial, sans-serif; 
+    height: 1200px;
+}
+
+
+.left-background-image {
+   display: none;
+}
+
+.right-background-image {
+   display: none;
+}
+
+
+.inside-img {
+    /* Set the background image */
+  
+    /* Set background image size */
+    background-size: 100% 100%;
+    margin-left: 5%;
+    text-align: center;
+    color: #ffffff;
+    /* Set background image position */
+    background-position: center;
+    /* Optional: Add more styling if needed */
+    width: 20%; /* Adjust width if needed */
+    height: 100%; /* Adjust height if needed */
+  }
+  .google-form {
+    height: 1000px;
+    width: 450%; /* Adjust the width as needed */
+}
+
+
+
+
+@keyframes zoomIn {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+
+.top-button {
+    font-weight: bold;
+    position: absolute;
+    top: 30px;
+    width: 80px;
+    height: 35px;
+    background-color: #b03838;
+    border: 2px solid #b03838;
+    color: #ffffff;
+    border-radius: 20px;
+    font-size: 9px; /* Increase the font size */
+    cursor: pointer;
+    text-align: center;
+    padding: 5px 20px;
+    transition: background-color 0.3s, color 0.3s;
+    animation: zoomIn 1s infinite; /* Apply the zoomIn animation */
+}
+
+
+.top-button:nth-child(1) {
+    left: 8%;
+}
+
+.top-button:nth-child(2) {
+    left: 38%;
+}
+
+.top-button:nth-child(3) {
+    left: 68%;
+}
+
+.top-button:hover {
+    box-shadow: 0 0 20px rgba(220, 100, 100, 0.8); /* Glow effect on hover */
+    animation: none; /* Disable the animation on hover */
+}
+}
+

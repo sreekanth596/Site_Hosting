@@ -14,6 +14,14 @@ import { AboutBodyComponent } from './about-body/about-body.component';
 import { GalleryBodyComponent } from './gallery-body/gallery-body.component';
 import { ContactBodyComponent } from './contact-body/contact-body.component';
 import { Router, RouterModule, Routes } from '@angular/router';
+import { HttpClientModule } from '@angular/common/http';
+import { FormsComponent } from './forms/forms.component';
+import { PrasadamFormComponent } from './prasadam-form/prasadam-form.component';
+import { DevottiFormComponent } from './devotti-form/devotti-form.component';
+import { ShaadhamFormComponent } from './shaadham-form/shaadham-form.component';
+
+
+
 
 const appRoutes: Routes=[
   {
@@ -33,7 +41,15 @@ const appRoutes: Routes=[
   },
   {
     path:'contact',component:ContactBodyComponent
- }
+ },{
+     path:'book',component:FormsComponent
+ },{
+  path:'prasadamBooking',component:PrasadamFormComponent
+},{
+  path:'shaadhamBooking',component:ShaadhamFormComponent
+},{
+  path:'devotti',component:DevottiFormComponent
+}
 ]
 
 @NgModule({
@@ -48,12 +64,17 @@ const appRoutes: Routes=[
     AboutBodyComponent,
     GalleryBodyComponent,
     ContactBodyComponent,
+    FormsComponent,
+    PrasadamFormComponent,
+    DevottiFormComponent,
+    ShaadhamFormComponent
     
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
-    RouterModule.forRoot(appRoutes)
+  AppRoutingModule,
+  HttpClientModule,
+  RouterModule.forRoot(appRoutes)
   ],
   providers: [ DatePipe],
   bootstrap: [AppComponent,HeaderComponent]

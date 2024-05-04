@@ -76,8 +76,34 @@
     background-repeat: no-repeat;
 }
 
+.subheader{
+    font-size: 20px;
+    width: 500px;
+    margin: -135px auto 0;
+    color: #f9d40b;
+}
 
+.meantext{
+    font-size: 20px;
+    width: 300px;
+    color: #f9d40b;
+    /* margin: -135px auto 0; */
+    margin: 3px;
+}
+.means{
+    margin: 1px calc(((100% - 800px) / 2) + 51px) 0 calc(((100% - 800px) / 2) + 79px);
+ 
+}
+.meansexp{
+    margin: 1px calc(((100% - 800px) / 2) + 51px) 0 calc(((100% - 800px) / 2) + 79px);
+    text-align: justify;
+}
 
+.meanexptext{
+    color: #f9d40b;
+    font-weight: bold;
+    font-size: 14px;
+}
 /* your-component.component.css */
 
 /* Assuming you have these two images */
@@ -93,20 +119,23 @@
     font-weight: bold;
     position: absolute;
     top: 40px;
-    width: 270px;
-    height: 50px;
+    width: 240px;
+    height: 45px;
     background-color: #b03838;
     border: 2px solid #b03838;
     color: #ffffff;
     border-radius: 20px;
-    font-size: 20px; /* Increase the font size */
+    font-size: 16px; /* Increase the font size */
     cursor: pointer;
     text-align: center;
     padding: 5px 20px;
     transition: background-color 0.3s, color 0.3s;
     animation: zoomIn 1s infinite; /* Apply the zoomIn animation */
 }
-
+.top-button a {
+    color: inherit; /* Inherit button's text color */
+    text-decoration: none; /* Remove underline */
+}
 
 .top-button:nth-child(1) {
     left: 20%;
@@ -190,7 +219,18 @@
     background-position: center 90px; /* Adjust background position as needed */
     background-repeat: no-repeat;
 }
-
+.means{
+    margin: 1px calc(((100% - 650px) / 2) + 51px) 0 calc(((100% - 650px) / 2) + 79px);
+    }
+.meansexp{
+margin: 1px calc(((100% - 650px) / 2) + 51px) 0 calc(((100% - 650px) / 2) + 79px);
+}
+.subheader{
+    font-size: 20px;
+     width: 250px; 
+    margin: -135px auto 0;
+    color: #f9d40b;
+}
 
 
 @keyframes zoomIn {
@@ -303,8 +343,12 @@
     background-position: center 90px; /* Adjust background position as needed */
     background-repeat: no-repeat;
 }
-
-
+.means{
+    margin: 1px calc(((100% - 300px) / 2) + 51px) 0 calc(((100% - 300px) / 2) + 79px);
+}
+.meansexp {
+    margin: 1px calc(((100% - 300px) / 2) + 51px) 0 calc(((100% - 300px) / 2) + 79px);
+}
 
 @keyframes zoomIn {
     0% { transform: scale(1); }
@@ -329,6 +373,7 @@
     transition: background-color 0.3s, color 0.3s;
     animation: zoomIn 1s infinite; /* Apply the zoomIn animation */
 }
+
 
 
 .top-button:nth-child(1) {
