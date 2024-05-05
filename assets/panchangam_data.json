@@ -1,0 +1,2344 @@
+
+{
+    "panchangam": [
+      {
+        "date": "2024-02-02",
+        "tithi": "Krishna Ashtami",
+        "nakshtram": "Svaati ",
+        "rahukalam": "11:10:07-12:28:22",
+        "durmuhoortham": "09:20:35-10:02:19"
+      },
+      {
+        "date": "2024-02-03",
+        "tithi": "Krishna Navami",
+        "nakshtram": "Vishaakha ",
+        "rahukalam": "09:51:32-11:10:00",
+        "durmuhoortham": "07:14:36-07:56:27"
+      },
+      {
+        "date": "2024-02-04",
+        "tithi": "Krishna Navami",
+        "nakshtram": "Anuraadha",
+        "rahukalam": "16:24:42-17:43:24",
+        "durmuhoortham": "16:19:27-17:01:26"
+      },
+      {
+        "date": "2024-02-05",
+        "tithi": "Krishna Ekadashi",
+        "nakshtram": "Jyeshtha",
+        "rahukalam": "08:31:51-09:50:47",
+        "durmuhoortham": "12:49:44-13:31:50"
+      },
+      {
+        "date": "2024-02-06",
+        "tithi": "Krishna Dvadashi",
+        "nakshtram": "Mula",
+        "rahukalam": "15:07:07-16:26:18",
+        "durmuhoortham": "09:18:43-10:00:57"
+      },
+      {
+        "date": "2024-02-07",
+        "tithi": "Krishna Trayodashi",
+        "nakshtram": "P.shadha ",
+        "rahukalam": "12:28:49-13:48:15",
+        "durmuhoortham": "12:07:38-12:50:00"
+      },
+      {
+        "date": "2024-02-08",
+        "tithi": "Krishna Chaturdashi",
+        "nakshtram": "U.shada",
+        "rahukalam": "13:48:33-15:08:13",
+        "durmuhoortham": "10:42:38-11:25:08"
+      },
+      {
+        "date": "2024-02-09",
+        "tithi": "Krishna Amavasya",
+        "nakshtram": "Shravana",
+        "rahukalam": "11:08:59-12:28:55",
+        "durmuhoortham": "09:17:06-09:59:43"
+      },
+      {
+        "date": "2024-02-10",
+        "tithi": "Shukla Prathama",
+        "nakshtram": "Dhanishta",
+        "rahukalam": "09:48:36-11:08:46",
+        "durmuhoortham": "07:08:15-07:51:00"
+      },
+      {
+        "date": "2024-02-11",
+        "tithi": "Shukla Dvitiiya",
+        "nakshtram": "Shatabhisha",
+        "rahukalam": "16:30:13-17:50:39",
+        "durmuhoortham": "16:24:51-17:07:45"
+      },
+      {
+        "date": "2024-02-12",
+        "tithi": "Shukla Tritiiya",
+        "nakshtram": "U.Bhadrapada",
+        "rahukalam": "08:26:55-09:47:35",
+        "durmuhoortham": "12:50:28-13:33:29"
+      },
+      {
+        "date": "2024-02-13",
+        "tithi": "Shukla Panchami",
+        "nakshtram": "Revati ",
+        "rahukalam": "15:10:48-16:31:44",
+        "durmuhoortham": "09:14:41-09:57:51"
+      },
+      {
+        "date": "2024-02-14",
+        "tithi": "Shukla Shashthi",
+        "nakshtram": "Ashvini ",
+        "rahukalam": "12:28:54-13:50:06",
+        "durmuhoortham": "12:07:15-12:50:34"
+      },
+      {
+        "date": "2024-02-15",
+        "tithi": "Shukla Saptami",
+        "nakshtram": "Bharani ",
+        "rahukalam": "13:50:19-15:11:47",
+        "durmuhoortham": "10:40:16-11:23:42"
+      },
+      {
+        "date": "2024-02-16",
+        "tithi": "Shukla Ashtami",
+        "nakshtram": "Krittika",
+        "rahukalam": "11:07:06-12:28:49",
+        "durmuhoortham": "09:12:42-09:56:17"
+      },
+      {
+        "date": "2024-02-17",
+        "tithi": "Shukla Navami",
+        "nakshtram": "Rohini",
+        "rahukalam": "09:44:48-11:06:46",
+        "durmuhoortham": "07:00:50-07:44:34"
+      },
+      {
+        "date": "2024-02-18",
+        "tithi": "Shukla Dashami",
+        "nakshtram": "Mrigashirsha",
+        "rahukalam": "16:35:25-17:57:39",
+        "durmuhoortham": "16:29:56-17:13:48"
+      },
+      {
+        "date": "2024-02-19",
+        "tithi": "Shukla Ekadashi",
+        "nakshtram": "Aardra ",
+        "rahukalam": "08:21:03-09:43:34",
+        "durmuhoortham": "12:50:36-13:34:36"
+      },
+      {
+        "date": "2024-02-20",
+        "tithi": "Shukla Dvadashi",
+        "nakshtram": "Punarvasu",
+        "rahukalam": "15:14:03-16:36:50",
+        "durmuhoortham": "09:09:49-09:53:58"
+      },
+      {
+        "date": "2024-02-21",
+        "tithi": "Shukla Trayodashi",
+        "nakshtram": "Pushya",
+        "rahukalam": "12:28:23-13:51:26",
+        "durmuhoortham": "12:06:14-12:50:32"
+      },
+      {
+        "date": "2024-02-22",
+        "tithi": "Shukla Chaturdashi",
+        "nakshtram": "Aslesha ",
+        "rahukalam": "13:51:35-15:14:54",
+        "durmuhoortham": "10:37:10-11:21:36"
+      },
+      {
+        "date": "2024-02-23",
+        "tithi": "Shukla Purnima",
+        "nakshtram": "Aslesha",
+        "rahukalam": "11:04:32-12:28:08",
+        "durmuhoortham": "09:07:31-09:52:06"
+      },
+      {
+        "date": "2024-02-24",
+        "tithi": "Shukla Purnima",
+        "nakshtram": "Magha",
+        "rahukalam": "09:40:16-11:04:08",
+        "durmuhoortham": "06:52:32-07:37:16"
+      },
+      {
+        "date": "2024-02-25",
+        "tithi": "Krishna Prathama",
+        "nakshtram": "P.Phalguni ",
+        "rahukalam": "16:40:15-18:04:24",
+        "durmuhoortham": "16:34:39-17:19:31"
+      },
+      {
+        "date": "2024-02-26",
+        "tithi": "Krishna Dvitiiya",
+        "nakshtram": "U.Phalguni",
+        "rahukalam": "08:14:26-09:38:51",
+        "durmuhoortham": "12:50:11-13:35:12"
+      },
+      {
+        "date": "2024-02-27",
+        "tithi": "Krishna  Tritiiya",
+        "nakshtram": "Hasta",
+        "rahukalam": "15:16:53-16:41:35",
+        "durmuhoortham": "09:04:15-09:49:25"
+      },
+      {
+        "date": "2024-02-28",
+        "tithi": "Krishna  Chaturthi",
+        "nakshtram": "Chitra",
+        "rahukalam": "12:27:20-13:52:18",
+        "durmuhoortham": "12:04:40-12:49:59"
+      },
+      {
+        "date": "2024-02-29",
+        "tithi": "Krishna  Panchami",
+        "nakshtram": "Svaati",
+        "rahukalam": "13:52:23-15:17:38",
+        "durmuhoortham": "10:33:29-11:18:57"
+      },
+      {
+        "date": "2024-03-01",
+        "tithi": "Krishna Shashthi",
+        "nakshtram": "Vishaakha",
+        "rahukalam": "11:01:25-12:26:57",
+        "durmuhoortham": "09:01:41-09:47:18"
+      },
+      {
+        "date": "2024-03-02",
+        "tithi": "Krishna Saptami",
+        "nakshtram": "Anuraadha",
+        "rahukalam": "09:35:08-11:00:56",
+        "durmuhoortham": "06:43:32-07:29:18"
+      },
+      {
+        "date": "2024-03-03",
+        "tithi": "Krishna Ashtami",
+        "nakshtram": "Jyeshtha",
+        "rahukalam": "16:44:47-18:10:52",
+        "durmuhoortham": "16:39:02-17:24:57"
+      },
+      {
+        "date": "2024-03-04",
+        "tithi": "Krishna Navami",
+        "nakshtram": "Mula",
+        "rahukalam": "08:07:13-09:33:35",
+        "durmuhoortham": "12:49:20-13:35:24"
+      },
+      {
+        "date": "2024-03-05",
+        "tithi": "Krishna Dashami",
+        "nakshtram": "P.shadha",
+        "rahukalam": "15:19:22-16:46:01",
+        "durmuhoortham": "08:58:08-09:44:21"
+      },
+      {
+        "date": "2024-03-06",
+        "tithi": "Krishna Ekadashi",
+        "nakshtram": "U.shada",
+        "rahukalam": "12:25:51-13:52:47",
+        "durmuhoortham": "12:02:40-12:49:02"
+      },
+      {
+        "date": "2024-03-07",
+        "tithi": "Krishna Dvadashi",
+        "nakshtram": "Shravana",
+        "rahukalam": "13:52:49-15:20:02",
+        "durmuhoortham": "10:29:20-11:15:51"
+      },
+      {
+        "date": "2024-03-08",
+        "tithi": "Krishna Trayodashi",
+        "nakshtram": "Dhanishta",
+        "rahukalam": "10:57:53-12:25:22",
+        "durmuhoortham": "08:55:23-09:42:03"
+      },
+      {
+        "date": "2024-03-09",
+        "tithi": "Krishna Chaturdashi",
+        "nakshtram": "Shatabhisha",
+        "rahukalam": "09:29:34-10:57:21",
+        "durmuhoortham": "06:34:01-07:20:50"
+      },
+      {
+        "date": "2024-03-10",
+        "tithi": "Shukla Prathama",
+        "nakshtram": "P.Bhadrapada",
+        "rahukalam": "17:49:02-19:17:06",
+        "durmuhoortham": "17:43:10-18:30:08"
+      },
+      {
+        "date": "2024-03-11",
+        "tithi": "Shukla Dvitiiya",
+        "nakshtram": "U.Bhadrapada",
+        "rahukalam": "08:59:34-10:27:55",
+        "durmuhoortham": "13:48:10-14:35:16"
+      },
+      {
+        "date": "2024-03-12",
+        "tithi": "Shukla Tritiiya",
+        "nakshtram": "Revati",
+        "rahukalam": "6:21:35-17:50:13",
+        "durmuhoortham": "09:51:38-10:38:54"
+      },
+      {
+        "date": "2024-03-13",
+        "tithi": "Shukla Chaturthi",
+        "nakshtram": "Ashvini",
+        "rahukalam": "13:24:04-14:52:58",
+        "durmuhoortham": "13:00:21-13:47:46"
+      },
+      {
+        "date": "2024-03-14",
+        "tithi": "Shukla Panchami",
+        "nakshtram": "Krittika",
+        "rahukalam": "14:52:59-16:22:11",
+        "durmuhoortham": "11:24:52-12:12:26"
+      },
+      {
+        "date": "2024-03-15",
+        "tithi": "Shukla Shashthi",
+        "nakshtram": "Rohini ",
+        "rahukalam": "11:54:02-13:23:30",
+        "durmuhoortham": "09:48:45-10:36:29"
+      },
+      {
+        "date": "2024-03-16",
+        "tithi": "Shukla Saptami",
+        "nakshtram": "Mrigashirsha",
+        "rahukalam": "10:23:42-11:53:28",
+        "durmuhoortham": "07:24:10-08:12:02"
+      },
+      {
+        "date": "2024-03-17",
+        "tithi": "Shukla Ashtami",
+        "nakshtram": "Aardra",
+        "rahukalam": "17:53:05-19:23:08",
+        "durmuhoortham": "17:47:05-18:35:06"
+      },
+      {
+        "date": "2024-03-18",
+        "tithi": "Shukla Navami",
+        "nakshtram": "Aardra",
+        "rahukalam": "08:51:39-10:21:59",
+        "durmuhoortham": "13:46:44-14:34:55"
+      },
+      {
+        "date": "2024-03-19",
+        "tithi": "Shukla Dashami", 
+        "nakshtram": "Punarvasu",
+        "rahukalam": "16:23:35-17:54:12",
+        "durmuhoortham": "09:44:52-10:33:12"
+      },
+      {
+        "date": "2024-03-20",
+        "tithi": "Shukla Ekadashi",
+        "nakshtram": "Pushya",
+        "rahukalam": "13:22:03-14:52:57",
+        "durmuhoortham": "12:57:49-13:46:18"
+      },
+      {
+        "date": "2024-03-21",
+        "tithi": "Shukla Dvadashi",
+        "nakshtram": "Aslesha",
+        "rahukalam": "14:52:57-16:24:08",
+        "durmuhoortham": "11:20:11-12:08:48"
+      },
+      {
+        "date": "2024-03-22",
+        "tithi": "Shukla Trayodashi",
+        "nakshtram": "Magha",
+        "rahukalam": "11:49:59-13:21:27",
+        "durmuhoortham": "09:41:56-10:30:43"
+      },
+      {
+        "date": "2024-03-23",
+        "tithi": "Shukla Chaturdashi",
+        "nakshtram": "P.Phalguni",
+        "rahukalam": "10:17:39-11:49:24",
+        "durmuhoortham": "07:14:08-08:03:04"
+      },
+      {
+        "date": "2024-03-24",
+        "tithi": "Shukla Purnima",
+        "nakshtram": "Shukla Purnima",
+        "rahukalam": "17:56:58-19:29:00",
+        "durmuhoortham": "17:50:50-18:39:55"
+      },
+      {
+        "date": "2024-03-25",
+        "tithi": "Krishna Prathama",
+        "nakshtram": "Hasta",
+        "rahukalam": "08:43:35-10:15:55",
+        "durmuhoortham": "13:45:10-14:34:25"
+      },
+      {
+        "date": "2024-03-26",
+        "tithi": "Krishna Dvitiiya",
+        "nakshtram": "Chitra",
+        "rahukalam": "16:25:28-17:58:04",
+        "durmuhoortham": "09:38:00-10:27:23"
+      },
+      {
+        "date": "2024-03-27",
+        "tithi": "Krishna Dvitiiya",
+        "nakshtram": "Svaati",
+        "rahukalam": "13:19:57-14:52:50",
+        "durmuhoortham": "12:55:11-13:44:43"
+      },
+      {
+        "date": "2024-03-27",
+        "tithi": "Krishna Dvitiiya",
+        "nakshtram": "Svaati",
+        "rahukalam": "13:19:57-14:52:50",
+        "durmuhoortham": "12:55:11-13:44:43"
+      },
+      {
+         "date": "2024-03-28",
+        "tithi": "Krishna Tritiiya",
+        "nakshtram": "Svaati",
+        "rahukalam": "14:52:49-16:25:59",
+        "durmuhoortham": "11:15:25-12:05:07"
+      },
+      {
+      "date": "2024-03-29",
+      "tithi": "Krishna Chaturthi",
+      "nakshtram": "Vishaakha",
+      "rahukalam": "11:45:54-13:19:21",
+      "durmuhoortham": "09:35:04-10:24:54"
+      },
+      {
+        "date": "2024-03-30",
+        "tithi": "Krishna Panchami",
+        "nakshtram": "Anuraadha",
+        "rahukalam": "10:11:35-11:45:19",
+        "durmuhoortham": "07:04:07-07:54:06"
+      },
+      {
+        "date": "2024-03-31",
+        "tithi": "Krishna Shashthi",
+        "nakshtram": "Jyeshtha",
+        "rahukalam": "18:00:47-19:34:48",
+        "durmuhoortham": "17:54:31-18:44:40"
+      },
+      {
+        "date": "2024-04-01",
+        "tithi": "Krishna Saptami",
+        "nakshtram": "Mula",
+        "rahukalam": "08:35:34-10:09:52",
+        "durmuhoortham": "13:43:36-14:33:53"
+      },
+      {
+        "date": "2024-04-02",
+        "tithi": "Krishna Ashtami",
+        "nakshtram": "P.shadha ",
+        "rahukalam": "16:27:19-18:01:53",
+        "durmuhoortham": "09:31:11-10:21:37"
+      },
+      {
+        "date": "2024-04-03",
+        "tithi": "Krishna Navami",
+        "nakshtram": "U.shada",
+        "rahukalam": "13:17:52-14:52:43",
+        "durmuhoortham": "12:52:34-13:43:10"
+      },
+      {
+        "date": "2024-04-04",
+        "tithi": "Krishna Ekadashi",
+        "nakshtram": "Shravana",
+        "rahukalam": "14:52:43-16:27:51",
+        "durmuhoortham": "11:10:44-12:01:28"
+      },
+      {
+        "date": "2024-04-05",
+        "tithi": "Krishna Dvadashi",
+        "nakshtram": "Dhanishta",
+        "rahukalam": "11:41:53-13:17:18",
+        "durmuhoortham": "09:28:18-10:19:12"
+      },
+      {
+        "date": "2024-04-06",
+        "tithi": "Krishna Trayodashi",
+        "nakshtram": "P.Bhadrapada",
+        "rahukalam": "10:05:38-11:41:19",
+        "durmuhoortham": "06:54:15-07:45:17"
+      },
+      {
+        "date": "2024-04-07",
+        "tithi": "Krishna Chaturdashi",
+        "nakshtram": "U.Bhadrapada",
+        "rahukalam": "18:04:38-19:40:36",
+        "durmuhoortham": "17:58:14-18:49:25"
+      },
+      {
+        "date": "2024-04-08",
+        "tithi": "Krishna Amavasya",
+        "nakshtram": "Revati ",
+        "rahukalam": "08:27:44-10:03:59",
+        "durmuhoortham": "13:42:08-14:33:27"
+      },
+      {
+        "date": "2024-04-09",
+        "tithi": "Shukla Prathama",
+        "nakshtram": "Ashvini ",
+        "rahukalam": "16:29:14-18:05:45",
+        "durmuhoortham": "09:24:33-10:16:02"
+      },
+      {
+        "date": "2024-04-10",
+        "tithi": "Shukla Dvitiiya",
+        "nakshtram": "Bharani ",
+        "rahukalam": "13:15:56-14:52:43",
+        "durmuhoortham": "12:50:07-13:41:44"
+      },
+      {
+        "date": "2024-04-11",
+        "tithi": "Shukla Chaturthi",
+        "nakshtram": "Krittika",
+        "rahukalam": "14:52:44-16:29:48",
+        "durmuhoortham": "11:06:15-11:58:01"
+      },
+      {
+        "date": "2024-04-12",
+        "tithi": "Shukla Panchami",
+        "nakshtram": "Rohini ",
+        "rahukalam": "11:38:05-13:15:25",
+        "durmuhoortham": "09:21:49-10:13:43"
+      },
+      {
+        "date": "2024-04-13",
+        "tithi": "Shukla Shashthi",
+        "nakshtram": "Mrigashirsha",
+        "rahukalam": "09:59:57-11:37:33",
+        "durmuhoortham": "06:44:44-07:36:48"
+      },
+      {
+        "date": "2024-04-14",
+        "tithi": "Shukla Saptami",
+        "nakshtram": "Aardra ",
+        "rahukalam": "18:08:33-19:46:25",
+        "durmuhoortham": "18:02:01-18:54:13"
+      },
+      {
+        "date": "2024-04-15",
+        "tithi": "Shukla Ashtami",
+        "nakshtram": "Punarvasu",
+        "rahukalam": "08:20:15-09:58:24",
+        "durmuhoortham": "13:40:51-14:33:12"
+      },
+      {
+        "date": "2024-04-16",
+        "tithi": "Shukla Navami",
+        "nakshtram": "Pushya",
+        "rahukalam": "16:31:16-18:09:41",
+        "durmuhoortham": "09:18:16-10:10:45"
+      },
+      {
+        "date": "2024-04-17",
+        "tithi": "Shukla Dashami",
+        "nakshtram": "Aslesha ",
+        "rahukalam": "13:14:13-14:52:54",
+        "durmuhoortham": "12:47:54-13:40:32"
+      },
+      {
+        "date": "2024-04-18",
+        "tithi": "Shukla Dashami",
+        "nakshtram": "magha",
+        "rahukalam": "14:52:56-16:31:53",
+        "durmuhoortham": "11:02:05-11:54:51"
+      },
+      {
+        "date": "2024-04-19",
+        "tithi": "Shukla Ekadashi",
+        "nakshtram": "P.Phalguni ",
+        "rahukalam": "11:34:35-13:13:47",
+        "durmuhoortham": "09:15:42-10:08:36"
+      },
+      {
+        "date": "2024-04-20",
+        "tithi": "Shukla Dvadashi",
+        "nakshtram": "U.Phalguni",
+        "rahukalam": "09:54:39-11:34:07",
+        "durmuhoortham": "06:35:43-07:28:46"
+      },
+      {
+        "date": "2024-04-21",
+        "tithi": "Shukla Trayodashi",
+        "nakshtram": "U.Phalguni",
+        "rahukalam": "18:12:33-19:52:16",
+        "durmuhoortham": "18:05:54-18:59:05"
+      },
+      {
+        "date": "2024-04-22",
+        "tithi": "Shukla Chaturdashi",
+        "nakshtram": "Hasta",
+        "rahukalam": "08:13:14-09:53:13",
+        "durmuhoortham": "13:39:50-14:33:10"
+      },
+      {
+        "date": "2024-04-23",
+        "tithi": "Shukla Purnima",
+        "nakshtram": "Chitra",
+        "rahukalam": "16:33:28-18:13:42",
+        "durmuhoortham": "09:12:25-10:05:53"
+      },
+      {
+        "date": "2024-04-24",
+        "tithi": "Krishna Prathama",
+        "nakshtram": "Svaati ",
+        "rahukalam": "13:12:49-14:53:18",
+        "durmuhoortham": "12:46:01-13:39:37"
+      },
+      {
+        "date": "2024-04-25",
+        "tithi": "Krishna Dvitiiya",
+        "nakshtram": "Vishaakha",
+        "rahukalam": "14:53:23-16:34:08",
+        "durmuhoortham": "10:58:19-11:52:03"
+      },
+      {
+        "date": "2024-04-26",
+        "tithi": "Krishna  Tritiiya",
+        "nakshtram": "Anuraadha",
+        "rahukalam": "11:31:29-13:12:29",
+        "durmuhoortham": "09:10:06-10:03:58"
+      },
+      {
+        "date": "2024-04-27",
+        "tithi": "Krishna  Chaturthi",
+        "nakshtram": "Jyeshtha",
+        "rahukalam": "09:49:51-11:31:05",
+        "durmuhoortham": "06:27:21-07:21:21"
+      },
+      {
+        "date": "2024-04-28",
+        "tithi": "Krishna  Panchami",
+        "nakshtram": "Mula",
+        "rahukalam": "18:16:39-19:58:08",
+        "durmuhoortham": "18:09:53-19:04:01"
+      },
+      {
+        "date": "2024-04-29",
+        "tithi": "Krishna Shashthi",
+        "nakshtram": "P.shadha ",
+        "rahukalam": "08:06:51-09:48:35",
+        "durmuhoortham": "13:39:10-14:33:26"
+      },
+      {
+        "date": "2024-04-30",
+        "tithi": "Krishna Saptami",
+        "nakshtram": "U.shada",
+        "rahukalam": "16:35:52-18:17:51",
+        "durmuhoortham": "09:07:11-10:01:34"
+      },
+      {
+        "date": "2024-05-01",
+        "tithi": "Krishna Ashtami",
+        "nakshtram": "Shravana",
+        "rahukalam": "13:11:48-14:54:01",
+        "durmuhoortham": "12:44:33-13:39:03"
+      },
+      {
+        "date": "2024-05-02",
+        "tithi": "Krishna Navami",
+        "nakshtram": "Dhanishta",
+        "rahukalam": "14:54:09-16:36:36",
+        "durmuhoortham": "10:55:05-11:49:44"
+      },
+      {
+        "date": "2024-05-03",
+        "tithi": "Krishna Dashami",
+        "nakshtram": "Shatabhisha",
+        "rahukalam": "11:28:54-13:11:35",
+        "durmuhoortham": "09:05:09-09:59:55"
+      },
+      {
+        "date": "2024-05-04",
+        "tithi": "Krishna Ekadashi",
+        "nakshtram": "P.Bhadrapada",
+        "rahukalam": "09:45:40-11:28:35",
+        "durmuhoortham": "06:19:50-07:14:43"
+      },
+      {
+        "date": "2024-05-05",
+        "tithi": "Krishna Dvadashi",
+        "nakshtram": "U.Bhadrapada",
+        "rahukalam": "18:20:52-20:04:01",
+        "durmuhoortham": "18:13:59-19:09:00"
+      },
+      {
+        "date": "2024-05-06",
+        "tithi": "Krishna Chaturdashi",
+        "nakshtram": "Revati ",
+        "rahukalam": "08:01:14-09:44:36",
+        "durmuhoortham": "13:38:55-14:34:03"
+      },
+      {
+        "date": "2024-05-07",
+        "tithi": "Krishna Amavasya",
+        "nakshtram": "Bharani ",
+        "rahukalam": "16:38:29-18:22:05",
+        "durmuhoortham": "09:02:39-09:57:54"
+      },
+      {
+        "date": "2024-05-08",
+        "tithi": "Shukla Prathama",
+        "nakshtram": "Krittika",
+        "rahukalam": "13:11:14-14:55:03",
+        "durmuhoortham": "12:43:33-13:38:55"
+      },
+      {
+        "date": "2024-05-09",
+        "tithi": "Shukla Dvitiiya",
+        "nakshtram": "Rohini ",
+        "rahukalam": "14:55:14-16:39:16",
+        "durmuhoortham": "10:52:29-11:47:58"
+      },
+      {
+        "date": "2024-05-10",
+        "tithi": "Shukla Tritiiya",
+        "nakshtram": "Mrigashirsha",
+        "rahukalam": "11:26:54-13:11:09",
+        "durmuhoortham": "09:00:57-09:56:33"
+      },
+      {
+        "date": "2024-05-11",
+        "tithi": "Shukla Chaturthi",
+        "nakshtram": "Aardra ",
+        "rahukalam": "09:42:13-11:26:40",
+        "durmuhoortham": "06:13:17-07:09:00"
+      },
+      {
+        "date": "2024-05-12",
+        "tithi": "Shukla Panchami",
+        "nakshtram": "Punarvasu",
+        "rahukalam": "18:25:07-20:09:47",
+        "durmuhoortham": "18:18:09-19:13:58"
+      },
+      {
+        "date": "2024-05-13",
+        "tithi": "Shukla Shashthi",
+        "nakshtram": "Pushya",
+        "rahukalam": "07:56:30-09:41:22",
+        "durmuhoortham": "13:39:05-14:35:00"
+      },
+      {
+        "date": "2024-05-14",
+        "tithi": "Shukla Saptami",
+        "nakshtram": "Aslesha ",
+        "rahukalam": "16:41:16-18:26:20",
+        "durmuhoortham": "08:58:56-09:54:59"
+      },
+      {
+        "date": "2024-05-15",
+        "tithi": "Shukla Ashtami",
+        "nakshtram": "magha",
+        "rahukalam": "13:11:07-14:56:24",
+        "durmuhoortham": "12:43:03-13:39:12"
+      },
+      {
+        "date": "2024-05-16",
+        "tithi": "Shukla Navami",
+        "nakshtram": "magha",
+        "rahukalam": "14:56:36-16:42:04",
+        "durmuhoortham": "10:50:32-11:46:47"
+      },
+      {
+        "date": "2024-05-17",
+        "tithi": "Shukla Dashami",
+        "nakshtram": "P.Phalguni",
+        "rahukalam": "11:25:31-13:11:10",
+        "durmuhoortham": "08:57:37-09:53:58"
+      },
+      {
+        "date": "2024-05-18",
+        "tithi": "Shukla Dvitiiya",
+        "nakshtram": "U.Phalguni",
+        "rahukalam": "09:39:32-11:25:23",
+        "durmuhoortham": "06:07:52-07:04:19"
+      },
+      {
+        "date": "2024-05-19",
+        "tithi": "Shukla Dvadashi",
+        "nakshtram": "Hasta",
+        "rahukalam": "18:29:19-20:15:20",
+        "durmuhoortham": "18:22:15-19:18:47"
+      },
+      {
+        "date": "2024-05-20",
+        "tithi": "Shukla Dvadashi",
+        "nakshtram": "Chitra",
+        "rahukalam": "07:52:44-09:38:56",
+        "durmuhoortham": "07:52:44-09:38:56"
+      },
+      {
+        "date": "2024-05-21",
+        "tithi": "Shukla Trayodashi",
+        "nakshtram": "Svaati",
+        "rahukalam": "16:44:07-18:30:29",
+        "durmuhoortham": "08:56:06-09:52:50"
+      },
+      {
+        "date": "2024-05-22",
+        "tithi": "Shukla Chaturdashi",
+        "nakshtram": "Vishaakha ",
+        "rahukalam": "13:11:27-14:57:59",
+        "durmuhoortham": "12:43:03-13:39:52"
+      },
+      {
+        "date": "2024-05-23",
+        "tithi": "Shukla Purnima",
+        "nakshtram": "Anuraadha",
+        "rahukalam": "14:58:14-16:44:56",
+        "durmuhoortham": "10:49:16-11:46:11"
+      },
+      {
+        "date": "2024-05-24",
+        "tithi": "Krishna Prathama",
+        "nakshtram": "Jyeshtha",
+        "rahukalam": "11:24:46-13:11:37",
+        "durmuhoortham": "08:55:10-09:52:10"
+      },
+      {
+        "date": "2024-05-25",
+        "tithi": "Krishna Dvitiiya",
+        "nakshtram": "Mula",
+        "rahukalam": "09:37:42-11:24:43",
+        "durmuhoortham": "06:03:41-07:00:45"
+      },
+      {
+        "date": "2024-05-26",
+        "tithi": "Krishna  Tritiiya",
+        "nakshtram": "P.shadha ",
+        "rahukalam": "18:33:18-20:20:28",
+        "durmuhoortham": "18:26:09-19:23:18"
+      },
+      {
+        "date": "2024-05-27",
+        "tithi": "Krishna  Chaturthi",
+        "nakshtram": "U.shada",
+        "rahukalam": "07:50:02-09:37:20",
+        "durmuhoortham": "13:40:33-14:37:47"
+      },
+      {
+        "date": "2024-05-28",
+        "tithi": "Krishna Shashthi",
+        "nakshtram": "Shravana",
+        "rahukalam": "16:46:57-18:34:23",
+        "durmuhoortham": "08:54:12-09:51:30"
+      },
+      {
+        "date": "2024-05-29",
+        "tithi": "Krishna Saptami",
+        "nakshtram": "Dhanishta",
+        "rahukalam": "13:12:11-14:59:46",
+        "durmuhoortham": "12:43:30-13:40:53"
+      },
+      {
+        "date": "2024-05-30",
+        "tithi": "Krishna Ashtami",
+        "nakshtram": "Shatabhisha",
+        "rahukalam": "15:00:02-16:47:44",
+        "durmuhoortham": "10:48:43-11:46:10"
+      },
+      {
+        "date": "2024-05-31",
+        "tithi": "Krishna Navami",
+        "nakshtram": "P.Bhadrapada",
+        "rahukalam": "11:24:38-13:12:28",
+        "durmuhoortham": "08:53:41-09:51:11"
+      },
+      {
+        "date": "2024-06-01",
+        "tithi": "Krishna Dashami",
+        "nakshtram": "U.Bhadrapada",
+        "rahukalam": "09:36:44-11:24:40",
+        "durmuhoortham": "06:00:50-06:58:24"
+      },
+      {
+        "date": "2024-06-02",
+        "tithi": "Krishna Ekadashi",
+        "nakshtram": "Revati ",
+        "rahukalam": "18:36:57-20:25:01",
+        "durmuhoortham": "18:29:45-19:27:23"
+      },
+      {
+        "date": "2024-06-03",
+        "tithi": "Krishna Dvadashi",
+        "nakshtram": "Ashvini ",
+        "rahukalam": "07:48:26-09:36:36",
+        "durmuhoortham": "13:41:47-14:39:28"
+      },
+      {
+        "date": "2024-06-04",
+        "tithi": "Krishna Trayodashi",
+        "nakshtram": "Bharani ",
+        "rahukalam": "16:49:39-18:37:55",
+        "durmuhoortham": "08:53:16-09:51:00"
+      },
+      {
+        "date": "2024-06-05",
+        "tithi": "Krishna Chaturdashi",
+        "nakshtram": "Krittika",
+        "rahukalam": "13:13:17-15:01:39",
+        "durmuhoortham": "12:44:23-13:42:11"
+      },
+      {
+        "date": "2024-06-06",
+        "tithi": "Krishna Amavasya",
+        "nakshtram": "Rohini ",
+        "rahukalam": "15:01:55-16:50:22",
+        "durmuhoortham": "10:48:51-11:46:42"
+      },
+      {
+        "date": "2024-06-07",
+        "tithi": "Shukla Prathama",
+        "nakshtram": "Mrigashirsha",
+        "rahukalam": "11:25:06-13:13:39",
+        "durmuhoortham": "08:53:09-09:51:02"
+      },
+      {
+        "date": "2024-06-08",
+        "tithi": "Shukla Dvitiiya",
+        "nakshtram": "Aardra ",
+        "rahukalam": "09:36:36-11:25:13",
+        "durmuhoortham": "05:59:22-06:57:18"
+      },
+      {
+        "date": "2024-06-09",
+        "tithi": "Shukla Tritiiya",
+        "nakshtram": "Punarvasu",
+        "rahukalam": "18:40:06-20:28:47",
+        "durmuhoortham": "18:32:51-19:30:49"
+      },
+      {
+        "date": "2024-06-10",
+        "tithi": "Shukla Chaturthi",
+        "nakshtram": "Pushya",
+        "rahukalam": "07:47:57-09:36:43",
+        "durmuhoortham": "13:43:13-14:41:13"
+      },
+      {
+        "date": "2024-06-11",
+        "tithi": "Shukla Panchami",
+        "nakshtram": "Aslesha ",
+        "rahukalam": "16:52:03-18:40:52",
+        "durmuhoortham": "08:53:16-09:51:18"
+      },
+      {
+        "date": "2024-06-12",
+        "tithi": "Shukla Shashthi",
+        "nakshtram": "magha",
+        "rahukalam": "13:14:37-15:03:29",
+        "durmuhoortham": "12:45:35-13:43:39"
+      },
+      {
+        "date": "2024-06-13",
+        "tithi": "Shukla Saptami",
+        "nakshtram": "P.Phalguni ",
+        "rahukalam": "15:03:44-16:52:40",
+        "durmuhoortham": "10:49:36-11:47:41"
+      },
+      {
+        "date": "2024-06-14",
+        "tithi": "Shukla Ashtami",
+        "nakshtram": "U.Phalguni",
+        "rahukalam": "11:26:04-13:15:02",
+        "durmuhoortham": "08:53:32-09:51:38"
+      },
+      {
+        "date": "2024-06-15",
+        "tithi": "Shukla Navami",
+        "nakshtram": "Hasta",
+        "rahukalam": "09:37:15-11:26:14",
+        "durmuhoortham": "05:59:15-06:57:23"
+      },
+      {
+        "date": "2024-06-16",
+        "tithi": "Shukla Dashami",
+        "nakshtram": "Chitra",
+        "rahukalam": "18:42:31-20:31:32",
+        "durmuhoortham": "18:35:15-19:33:24"
+      },
+      {
+        "date": "2024-06-17",
+        "tithi": "Shukla Ekadashi",
+        "nakshtram": "Svaati",
+        "rahukalam": "07:48:31-09:37:34",
+        "durmuhoortham": "13:44:44-14:42:53"
+      },
+      {
+        "date": "2024-06-18",
+        "tithi": "Shukla Dvadashi",
+        "nakshtram": "Svaati ",
+        "rahukalam": "16:53:59-18:43:03",
+        "durmuhoortham": "08:54:07-09:52:17"
+      },
+      {
+        "date": "2024-06-19",
+        "tithi": "Shukla Trayodashi",
+        "nakshtram": "Vishaakha ",
+        "rahukalam": "13:16:04-15:05:09",
+        "durmuhoortham": "12:46:59-13:45:09"
+      },
+      {
+        "date": "2024-06-20",
+        "tithi": "Shukla Chaturdashi",
+        "nakshtram": "Anuraadha",
+        "rahukalam": "15:05:21-16:54:26",
+        "durmuhoortham": "10:50:51-11:49:01"
+      },
+      {
+        "date": "2024-06-21",
+        "tithi": "Shukla Purnima",
+        "nakshtram": "Jyeshtha",
+        "rahukalam": "11:27:25-13:16:29",
+        "durmuhoortham": "08:54:42-09:52:53"
+      },
+      {
+        "date": "2024-06-22",
+        "tithi": "Krishna Prathama",
+        "nakshtram": "Mula",
+        "rahukalam": "09:38:34-11:27:38",
+        "durmuhoortham": "06:00:26-06:58:36"
+      },
+      {
+        "date": "2024-06-23",
+        "tithi": "Krishna Dvitiiya",
+        "nakshtram": "P.shadha ",
+        "rahukalam": "18:44:04-20:33:07",
+        "durmuhoortham": "18:36:47-19:34:57"
+      },
+      {
+        "date": "2024-06-24",
+        "tithi": "Krishna  Tritiiya",
+        "nakshtram": "U.shada",
+        "rahukalam": "07:50:01-09:39:03",
+        "durmuhoortham": "13:46:11-14:44:20"
+      },
+      {
+        "date": "2024-06-25",
+        "tithi": "Krishna  Chaturthi",
+        "nakshtram": "Dhanishta",
+        "rahukalam": "16:55:19-18:44:19",
+        "durmuhoortham": "08:55:42-09:53:50"
+      },
+      {
+        "date": "2024-06-26",
+        "tithi": "Krishna  Panchami",
+        "nakshtram": "Shatabhisha",
+        "rahukalam": "13:17:31-15:06:29",
+        "durmuhoortham": "12:48:27-13:46:34"
+      },
+      {
+        "date": "2024-06-27",
+        "tithi": "Krishna Shashthi",
+        "nakshtram": "P.Bhadrapada",
+        "rahukalam": "15:06:38-16:55:34",
+        "durmuhoortham": "10:52:28-11:50:34"
+      },
+      {
+        "date": "2024-06-28",
+        "tithi": "Krishna Saptami",
+        "nakshtram": "U.Bhadrapada",
+        "rahukalam": "11:29:01-13:17:54",
+        "durmuhoortham": "08:56:35-09:54:39"
+      },
+      {
+        "date": "2024-06-29",
+        "tithi": "Krishna Navami",
+        "nakshtram": "Revati ",
+        "rahukalam": "09:40:26-11:29:16",
+        "durmuhoortham": "06:02:46-07:00:49"
+      },
+      {
+        "date": "2024-06-30",
+        "tithi": "Krishna Dashami",
+        "nakshtram": "Ashvini ",
+        "rahukalam": "18:44:36-20:33:23",
+        "durmuhoortham": "18:37:21-19:35:22"
+      },
+      {
+        "date": "2024-07-01",
+        "tithi": "Krishna Ekadashi",
+        "nakshtram": "Bharani ",
+        "rahukalam": "07:52:21-09:41:03",
+        "durmuhoortham": "13:47:28-14:45:26"
+      },
+      {
+        "date": "2024-07-02",
+        "tithi": "Krishna Dvadashi",
+        "nakshtram": "Krittika",
+        "rahukalam": "16:55:56-18:44:34",
+        "durmuhoortham": "08:57:55-09:55:52"
+      },
+      {
+        "date": "2024-07-03",
+        "tithi": "Krishna Trayodashi",
+        "nakshtram": "Rohini ",
+        "rahukalam": "13:18:50-15:07:23",
+        "durmuhoortham": "12:49:53-13:47:47"
+      },
+      {
+        "date": "2024-07-04",
+        "tithi": "Krishna Chaturdashi",
+        "nakshtram": "Mrigashirsha",
+        "rahukalam": "15:07:29-16:55:58",
+        "durmuhoortham": "10:54:21-11:52:13"
+      },
+      {
+        "date": "2024-07-05",
+        "tithi": "Krishna Amavasya",
+        "nakshtram": "Aardra ",
+        "rahukalam": "11:30:46-13:19:10",
+        "durmuhoortham": "08:59:01-09:56:50"
+      },
+      {
+        "date": "2024-07-06",
+        "tithi": "Shukla Prathama",
+        "nakshtram": "Punarvasu",
+        "rahukalam": "09:42:44-11:31:01",
+        "durmuhoortham": "06:06:08-07:03:53"
+      },
+      {
+        "date": "2024-07-07",
+        "tithi": "Shukla Dvitiiya",
+        "nakshtram": "Pushya",
+        "rahukalam": "18:44:05-20:32:17",
+        "durmuhoortham": "18:36:52-19:34:34"
+      },
+      {
+        "date": "2024-07-08",
+        "tithi": "Shukla Tritiiya",
+        "nakshtram": "Aslesha ",
+        "rahukalam": "07:55:20-09:43:26",
+        "durmuhoortham": "13:48:27-14:46:06"
+      },
+      {
+        "date": "2024-07-09",
+        "tithi": "Shukla Chaturthi",
+        "nakshtram": "magha",
+        "rahukalam": "16:55:44-18:43:43",
+        "durmuhoortham": "09:00:36-09:58:12"
+      },
+      {
+        "date": "2024-07-10",
+        "tithi": "Shukla Panchami",
+        "nakshtram": "P.Phalguni ",
+        "rahukalam": "13:19:54-15:07:46",
+        "durmuhoortham": "12:51:08-13:48:40"
+      },
+      {
+        "date": "2024-07-11",
+        "tithi": "Shukla Shashthi",
+        "nakshtram": "U.Phalguni",
+        "rahukalam": "15:07:46-16:55:31",
+        "durmuhoortham": "10:56:21-11:53:49"
+      },
+      {
+        "date": "2024-07-12",
+        "tithi": "Shukla Saptami",
+        "nakshtram": "U.Phalguni",
+        "rahukalam": "11:32:31-13:20:08",
+        "durmuhoortham": "09:01:51-09:59:15"
+      },
+      {
+        "date": "2024-07-13",
+        "tithi": "Shukla Ashtami",
+        "nakshtram": "Hasta",
+        "rahukalam": "09:45:16-11:32:45",
+        "durmuhoortham": "06:10:17-07:07:37"
+      },
+      {
+        "date": "2024-07-14",
+        "tithi": "Shukla Ashtami",
+        "nakshtram": "Chitra",
+        "rahukalam": "18:42:24-20:29:46",
+        "durmuhoortham": "18:35:15-19:32:30"
+      },
+      {
+        "date": "2024-07-15",
+        "tithi": "Shukla Navami",
+        "nakshtram": "Svaati ",
+        "rahukalam": "07:58:48-09:46:01",
+        "durmuhoortham": "13:49:02-14:46:13"
+      },
+      {
+        "date": "2024-07-16",
+        "tithi": "Shukla Dashami",
+        "nakshtram": "Vishaakha ",
+        "rahukalam": "16:54:39-18:41:43",
+        "durmuhoortham": "09:03:34-10:00:40"
+      },
+      {
+        "date": "2024-07-17",
+        "tithi": "Shukla Ekadashi",
+        "nakshtram": "Anuraadha",
+        "rahukalam": "13:20:36-15:07:31",
+        "durmuhoortham": "12:52:05-13:49:06"
+      },
+      {
+        "date": "2024-07-18",
+        "tithi": "Shukla Dvadashi",
+        "nakshtram": "Jyeshtha",
+        "rahukalam": "15:07:25-16:54:11",
+        "durmuhoortham": "10:58:19-11:55:15"
+      },
+      {
+        "date": "2024-07-19",
+        "tithi": "Shukla Trayodashi",
+        "nakshtram": "Mula",
+        "rahukalam": "11:34:07-13:20:43",
+        "durmuhoortham": "09:04:53-10:01:44"
+      },
+      {
+        "date": "2024-07-20",
+        "tithi": "Shukla Chaturdashi",
+        "nakshtram": "P.shadha ",
+        "rahukalam": "09:47:54-11:34:20",
+        "durmuhoortham": "06:15:02-07:11:48"
+      },
+      {
+        "date": "2024-07-21",
+        "tithi": "Shukla Purnima",
+        "nakshtram": "U.shada",
+        "rahukalam": "18:39:36-20:25:51",
+        "durmuhoortham": "18:32:30-19:29:11"
+      },
+      {
+        "date": "2024-07-22",
+        "tithi": "Krishna Dvitiiya",
+        "nakshtram": "Shravana",
+        "rahukalam": "08:02:34-09:48:39",
+        "durmuhoortham": "13:49:07-14:45:42"
+      },
+      {
+        "date": "2024-07-23",
+        "tithi": "Krishna  Tritiiya",
+        "nakshtram": "Dhanishta",
+        "rahukalam": "16:52:40-18:38:35",
+        "durmuhoortham": "09:06:39-10:03:09"
+      },
+      {
+        "date": "2024-07-24",
+        "tithi": "Krishna  Chaturthi",
+        "nakshtram": "Shatabhisha",
+        "rahukalam": "13:20:51-15:06:35",
+        "durmuhoortham": "12:52:40-13:49:03"
+      },
+      {
+        "date": "2024-07-25",
+        "tithi": "Krishna  Panchami",
+        "nakshtram": "P.Bhadrapada",
+        "rahukalam": "15:06:24-16:51:57",
+        "durmuhoortham": "11:00:08-11:56:25"
+      },
+      {
+        "date": "2024-07-26",
+        "tithi": "Krishna Shashthi",
+        "nakshtram": "Revati ",
+        "rahukalam": "11:35:29-13:20:51",
+        "durmuhoortham": "09:07:59-10:04:11"
+      },
+      {
+        "date": "2024-07-27",
+        "tithi": "Krishna Saptami",
+        "nakshtram": "Ashvini ",
+        "rahukalam": "09:50:30-11:35:40",
+        "durmuhoortham": "06:20:10-07:16:16"
+      },
+      {
+        "date": "2024-07-28",
+        "tithi": "Krishna Ashtami",
+        "nakshtram": "Bharani ",
+        "rahukalam": "18:35:42-20:20:40",
+        "durmuhoortham": "18:28:42-19:24:41"
+      },
+      {
+        "date": "2024-07-29",
+        "tithi": "Krishna Navami",
+        "nakshtram": "Krittika",
+        "rahukalam": "08:06:28-09:51:14",
+        "durmuhoortham": "13:48:42-14:44:34"
+      },
+      {
+        "date": "2024-07-30",
+        "tithi": "Krishna Dashami",
+        "nakshtram": "Rohini ",
+        "rahukalam": "16:49:50-18:34:24",
+        "durmuhoortham": "09:09:46-10:05:32"
+      },
+      {
+        "date": "2024-07-31",
+        "tithi": "Krishna Ekadashi",
+        "nakshtram": "Mrigashirsha",
+        "rahukalam": "13:20:39-15:05:00",
+        "durmuhoortham": "12:52:49-13:48:29"
+      },
+      
+      {
+        "date": "2024-08-01",
+        "tithi": "Krishna Trayodashi",
+        "nakshtram": "Aardra  ",
+        "rahukalam": "15:04:44-16:48:52",
+        "durmuhoortham1": "11:01:43-11:57:16"
+      },
+      {
+        "date": "2024-08-02",
+        "tithi": "Krishna Chaturdashi",
+        "nakshtram": "Punarvasu",
+        "rahukalam": "11:36:34-13:20:30",
+        "durmuhoortham1": "09:11:04-10:06:30"
+      },
+      {
+        "date": "2024-08-03",
+        "tithi": "Krishna Amavasya",
+        "nakshtram": "Pushya",
+        "rahukalam": "09:52:59-11:36:42",
+        "durmuhoortham1": "06:25:34-07:20:53"
+      },
+      {
+        "date": "2024-08-04",
+        "tithi": "Krishna Amavasya",
+        "nakshtram": "Aslesha",
+        "rahukalam": "18:30:48-20:14:18",
+        "durmuhoortham1": "18:23:54-19:19:06"
+      },
+      {
+        "date": "2024-08-05",
+        "tithi": "Shukla Prathama",
+        "nakshtram": "Magha ",
+        "rahukalam": "08:10:24-09:53:40",
+        "durmuhoortham1": "13:47:45-14:42:50"
+      },
+      {
+        "date": "2024-08-06",
+        "tithi": "Shukla Dvitiiya",
+        "nakshtram": "Magha ",
+        "rahukalam": "16:46:11-18:29:14",
+        "durmuhoortham1": "09:12:47-10:07:45"
+      },
+      {
+        "date": "2024-08-07",
+        "tithi": "Shukla Tritiiya",
+        "nakshtram": "P.Phalguni ",
+        "rahukalam": "13:19:58-15:02:47",
+        "durmuhoortham1": "12:52:33-13:47:23"
+      },
+      {
+        "date": "2024-08-08",
+        "tithi": "Shukla Chaturthi",
+        "nakshtram": "U.Phalguni ",
+        "rahukalam": "15:02:25-16:45:00",
+        "durmuhoortham1": "11:03:03-11:57:46"
+      },
+      {
+        "date": "2024-08-09",
+        "tithi": "Shukla Panchami",
+        "nakshtram": "Hasta",
+        "rahukalam": "11:37:20-13:19:41",
+        "durmuhoortham1": "09:14:02-10:08:37"
+      },
+      {
+        "date": "2024-08-10",
+        "tithi": "Shukla Shashthi",
+        "nakshtram": "Chitra ",
+        "rahukalam": "09:55:17-11:37:24",
+        "durmuhoortham1": "06:31:03-07:25:31"
+      },
+      {
+        "date": "2024-08-11",
+        "tithi": "Shukla Saptami",
+        "nakshtram": "Svaati ",
+        "rahukalam": "18:25:00-20:06:53",
+        "durmuhoortham1": "18:18:13-19:12:33"
+      },
+      {
+        "date": "2024-08-12",
+        "tithi": "Shukla Ashtami",
+        "nakshtram": "Vishaakha",
+        "rahukalam": "08:14:16-09:55:54",
+        "durmuhoortham1": "13:46:17-14:40:30"
+      },
+      {
+        "date": "2024-08-13",
+        "tithi": "Shukla Navami",
+        "nakshtram": "Anuraadha",
+        "rahukalam": "16:41:48-18:23:12",
+        "durmuhoortham1": "09:15:38-10:09:43"
+      },
+      {
+        "date": "2024-08-14",
+        "tithi": "Shukla Dashami",
+        "nakshtram": "Jyeshtha",
+        "rahukalam": "13:18:48-14:59:58",
+        "durmuhoortham1": "12:51:50-13:45:47"
+      },
+      {
+        "date": "2024-08-15",
+        "tithi": "Shukla Ekadashi",
+        "nakshtram": "Mula",
+        "rahukalam": "14:59:31-16:40:25",
+        "durmuhoortham1": "11:04:03-11:57:53"
+      },
+      {
+        "date": "2024-08-16",
+        "tithi": "Shukla Dvadashi",
+        "nakshtram": "P.shadha",
+        "rahukalam": "11:37:44-13:18:23",
+        "durmuhoortham1": "09:16:48-10:10:29"
+      },
+      {
+        "date": "2024-08-17",
+        "tithi": "Shukla Trayodashi",
+        "nakshtram": "U.shada",
+        "rahukalam": "09:57:21-11:37:46",
+        "durmuhoortham1": "06:36:31-07:30:04"
+      },
+      {
+        "date": "2024-08-18",
+        "tithi": "Shukla Chaturdashi",
+        "nakshtram": "Shravana",
+        "rahukalam": "18:18:25-19:58:35",
+        "durmuhoortham1": "18:11:45-19:05:10"
+      },
+
+     {
+        "date": "2024-08-19",
+        "tithi": "Shukla Purnima",
+        "nakshtram": "Dhanishta",
+        "rahukalam": "08:17:59-09:57:53",
+        "durmuhoortham1": "13:44:21-14:37:38"
+      },
+      {
+        "date": "2024-08-20",
+        "tithi": "Krishna Prathama",
+        "nakshtram": "Shatabhisha",
+        "rahukalam": "16:36:46-18:16:25",
+        "durmuhoortham1": "09:18:18-10:11:26"
+      },
+      {
+        "date": "2024-08-21",
+        "tithi": "Krishna Dvitiiya",
+        "nakshtram": "P.Bhadrapada",
+        "rahukalam": "13:17:12-14:56:36",
+        "durmuhoortham1": "12:50:42-13:43:43"
+      },
+      {
+        "date": "2024-08-22",
+        "tithi": "Krishna Chaturthi",
+        "nakshtram": "U.Bhadrapada",
+        "rahukalam": "14:56:05-16:35:13",
+        "durmuhoortham1": "11:04:46-11:57:38"
+      },
+      {
+        "date": "2024-08-23",
+        "tithi": "Krishna Panchami",
+        "nakshtram": "Revati",
+        "rahukalam": "11:37:48-13:16:41",
+        "durmuhoortham1": "09:19:22-10:12:06"
+      },
+      {
+        "date": "2024-08-24",
+        "tithi": "Krishna Shashthi",
+        "nakshtram": "Ashvini",
+        "rahukalam": "09:59:10-11:37:47",
+        "durmuhoortham1": "06:41:56-07:34:32"
+      },
+      {
+        "date": "2024-08-25",
+        "tithi": "Krishna Saptami",
+        "nakshtram": "Bharani",
+        "rahukalam": "18:11:12-19:49:33",
+        "durmuhoortham1": "18:04:38-18:57:06"
+      },
+      {
+        "date": "2024-08-26",
+        "tithi": "Krishna Ashtam",
+        "nakshtram": "Rohini",
+        "rahukalam": "08:21:34-09:59:39",
+        "durmuhoortham1": "13:42:00-14:34:19"
+      },
+      {
+        "date": "2024-08-27",
+        "tithi": "Krishna Navami",
+        "nakshtram": "Mrigashirsha",
+        "rahukalam": "16:31:12-18:09:02",
+        "durmuhoortham1": "09:20:46-10:12:56"
+      },
+      {
+        "date": "2024-08-28",
+        "tithi": "Krishna Dashami",
+        "nakshtram": "Aardra",
+        "rahukalam": "13:15:15-14:52:49",
+        "durmuhoortham1": "12:49:14-13:41:16"
+      },
+      {
+        "date": "2024-08-29",
+        "tithi": "Krishna Ekadashi",
+        "nakshtram": "Aardra",
+        "rahukalam": "14:52:15-16:29:32",
+        "durmuhoortham1": "11:05:13-11:57:07"
+      },
+      {
+        "date": "2024-08-30",
+        "tithi": "Krishna Dvadashi",
+        "nakshtram": "Punarvasu",
+        "rahukalam": "11:37:37-13:14:38",
+        "durmuhoortham1": "09:21:46-10:13:31"
+      },
+      {
+        "date": "2024-08-31",
+        "tithi": "Krishna Trayodashi",
+        "nakshtram": "Pushya",
+        "rahukalam": "10:00:49-11:37:34",
+        "durmuhoortham1": "06:47:18-07:38:54"
+      },
+      {
+        "date": "2024-09-01",
+        "tithi": "Krishna Chaturdashi",
+        "nakshtram": "Aslesha",
+        "rahukalam": "18:03:28-19:39:58",
+        "durmuhoortham1": "17:57:02-18:48:30"
+      },
+      {
+        "date": "2024-09-02",
+        "tithi": "Krishna Amavasya",
+        "nakshtram": "Magha",
+        "rahukalam": "08:25:02-10:01:15",
+        "durmuhoortham1": "13:39:20-14:30:39"
+      },
+      {
+        "date": "2024-09-03",
+        "tithi": "Shukla Prathama",
+        "nakshtram": "P.Phalguni",
+        "rahukalam": "16:25:15-18:01:12",
+        "durmuhoortham1": "09:23:05-10:14:16"
+      },
+      {
+        "date": "2024-09-04",
+        "tithi": "Shukla Dvitiiya",
+        "nakshtram": "U.Phalguni",
+        "rahukalam": "13:13:02-14:48:42",
+        "durmuhoortham1": "12:47:31-13:38:32"
+      },
+      {
+        "date": "2024-09-05",
+        "tithi": "Shukla Tritiiya",
+        "nakshtram": "Hasta",
+        "rahukalam": "14:48:05-16:23:29",
+        "durmuhoortham1": "11:05:29-11:56:22"
+      },
+      {
+        "date": "2024-09-06",
+        "tithi": "Shukla Chaturthi",
+        "nakshtram": "Chitra ",
+        "rahukalam": "11:37:14-13:12:21",
+        "durmuhoortham1": "09:24:03-10:14:47"
+      },
+      {
+        "date": "2024-09-07",
+        "tithi": "Shukla Chaturthi",
+        "nakshtram": "Svaati ",
+        "rahukalam": "10:02:18-11:37:10",
+        "durmuhoortham1": "06:52:36-07:43:12"
+      },
+      {
+        "date": "2024-09-08",
+        "tithi": "Shukla Panchami",
+        "nakshtram": "Vishaakha ",
+        "rahukalam": "17:55:23-19:29:58",
+        "durmuhoortham": "17:49:05-18:39:32"
+      },
+      {
+        "date": "2024-09-09",
+        "tithi": "Shukla Shashthi",
+        "nakshtram": "Vishaakha ",
+        "rahukalam": "08:28:25-10:02:43",
+        "durmuhoortham": "13:36:28-14:26:45"
+      },
+      {
+        "date": "2024-09-10",
+        "tithi": "Shukla Saptami",
+        "nakshtram": "Anuraadha",
+        "rahukalam": "16:19:01-17:53:02",
+        "durmuhoortham": "09:25:19-10:15:27"
+      },
+      {
+        "date": "2024-09-11",
+        "tithi": "Shukla Ashtami",
+        "nakshtram": "Jyeshtha",
+        "rahukalam": "13:10:37-14:44:22",
+        "durmuhoortham": "12:45:37-13:35:37"
+      },
+      {
+        "date": "2024-09-12",
+        "tithi": "Shukla Navami",
+        "nakshtram": "Mula",
+        "rahukalam": "14:43:44-16:17:12",
+        "durmuhoortham": "11:05:38-11:55:29"
+      },
+      {
+        "date": "2024-09-13",
+        "tithi": "Shukla Dashami",
+        "nakshtram": "P.shadha ",
+        "rahukalam": "11:36:43-13:09:54",
+        "durmuhoortham": "09:26:15-10:15:57"
+      },
+      {
+        "date": "2024-09-14",
+        "tithi": "Shukla Ekadashi",
+        "nakshtram": "U.shada",
+        "rahukalam": "10:03:43-11:36:38",
+        "durmuhoortham": "06:57:54-07:47:27"
+      },
+      {
+        "date": "2024-09-15",
+        "tithi": "Shukla Dvadashi",
+        "nakshtram": "Shravana",
+        "rahukalam": "17:47:05-19:19:44",
+        "durmuhoortham": "17:40:55-18:30:19"
+      },
+      {
+        "date": "2024-09-16",
+        "tithi": "Shukla Chaturdashi",
+        "nakshtram": "Dhanishta",
+        "rahukalam": "08:31:46-10:04:07",
+        "durmuhoortham": "13:33:27-14:22:43"
+      },
+      {
+        "date": "2024-09-17",
+        "tithi": "Shukla Purnima",
+        "nakshtram": "P.Bhadrapada",
+        "rahukalam": "16:12:37-17:44:42",
+        "durmuhoortham": "09:27:29-10:16:36"
+    },
+    {
+      "date": "2024-09-18",
+      "tithi": "Krishna Prathama",
+      "nakshtram": "U.Bhadrapada",
+      "rahukalam": "13:08:07-14:39:55",
+      "durmuhoortham": "12:43:38-13:32:36"
+    },
+    {
+      "date": "2024-09-19",
+      "tithi": "Krishna Dvitiiya",
+      "nakshtram": "Revati ",
+      "rahukalam": "14:39:16-16:10:48",
+      "durmuhoortham": "11:05:44-11:54:33"
+    },
+    {
+      "date": "2024-09-20",
+      "tithi": "Krishna  Tritiiya",
+      "nakshtram": "Ashvini ",
+      "rahukalam": "11:36:10-13:07:24",
+      "durmuhoortham": "09:28:26-10:17:05"
+    },
+    {
+      "date": "2024-09-21",
+      "tithi": "Krishna  Chaturthi",
+      "nakshtram": "Bharani ",
+      "rahukalam": "10:05:08-11:36:05",
+      "durmuhoortham": "07:03:13-07:51:43"
+    },
+    {
+      "date": "2024-09-22",
+      "tithi": "Krishna Shashthi",
+      "nakshtram": "Krittika",
+      "rahukalam": "17:38:44-19:09:24",
+      "durmuhoortham": "17:32:41-18:21:03"
+    },
+    {
+      "date": "2024-09-23",
+      "tithi": "Krishna Saptami",
+      "nakshtram": "Rohini ",
+      "rahukalam": "08:35:09-10:05:33",
+      "durmuhoortham": "13:30:27-14:18:40"
+    },
+    {
+      "date": "2024-09-24",
+      "tithi": "Krishna Ashtami",
+      "nakshtram": "Mrigashirsha",
+      "rahukalam": "16:06:14-17:36:21",
+      "durmuhoortham": "09:29:43-10:17:47"
+    },
+    {
+      "date": "2024-09-25",
+      "tithi": "Krishna Navami",
+      "nakshtram": "Aardra  ",
+      "rahukalam": "13:05:39-14:35:29",
+      "durmuhoortham": "12:41:42-13:29:37"
+    },
+    {
+      "date": "2024-09-26",
+      "tithi": "Krishna Dashami",
+      "nakshtram": "Punarvasu",
+      "rahukalam": "14:34:52-16:04:26",
+      "durmuhoortham": "11:05:54-11:53:40"
+    },
+    {
+      "date": "2024-09-27",
+      "tithi": "Krishna Ekadashi",
+      "nakshtram": "Pushya",
+      "rahukalam": "11:35:42-13:04:58",
+      "durmuhoortham": "09:30:43-10:18:19"
+    },
+    {
+      "date": "2024-09-28",
+      "tithi": "Krishna Dvadashi",
+      "nakshtram": "Aslesha ",
+      "rahukalam": "10:06:39-11:35:39",
+      "durmuhoortham": "07:08:39-07:56:07"
+    },
+    {
+      "date": "2024-09-29",
+      "tithi": "Krishna Dvadashi",
+      "nakshtram": "magha",
+      "rahukalam": "17:30:28-18:59:11",
+      "durmuhoortham": "17:24:33-18:11:52"
+    },
+    {
+      "date": "2024-09-30",
+      "tithi": "Krishna Trayodashi",
+      "nakshtram": "P.Phalguni ",
+      "rahukalam": "08:38:41-10:07:07",
+      "durmuhoortham": "13:27:34-14:14:44"
+    },
+    {
+      "date": "2024-10-01",
+      "tithi": "Krishna Chaturdashi",
+      "nakshtram": "U.Phalguni ",
+      "rahukalam": "15:59:59-17:28:09",
+      "durmuhoortham": "09:32:05-10:19:06"
+    },
+    {
+      "date": "2024-10-02",
+      "tithi": "Krishna Amavasya",
+      "nakshtram": "Hasta",
+      "rahukalam": "13:03:21-14:31:14",
+      "durmuhoortham": "12:39:55-13:26:47"
+    },
+    {
+      "date": "2024-10-03",
+      "tithi": "Shukla Prathama",
+      "nakshtram": "Chitra ",
+      "rahukalam": "14:30:39-15:58:15",
+      "durmuhoortham": "11:06:15-11:52:58"
+    },
+    {
+      "date": "2024-10-04",
+      "tithi": "Shukla Dvitiiya",
+      "nakshtram": "Chitra ",
+      "rahukalam": "11:35:25-13:02:45",
+      "durmuhoortham": "09:33:10-10:19:45"
+    },
+    {
+      "date": "2024-10-05",
+      "tithi": "Shukla Tritiiya",
+      "nakshtram": "Svaati ",
+      "rahukalam": "10:08:22-11:35:24",
+      "durmuhoortham": "07:14:17-08:00:42"
+    },
+    {
+      "date": "2024-10-06",
+      "tithi": "Shukla Chaturthi",
+      "nakshtram": "Vishaakha ",
+      "rahukalam": "17:22:27-18:49:13",
+      "durmuhoortham": "17:16:40-18:02:57"
+    },
+    {
+      "date": "2024-10-07",
+      "tithi": "Shukla Panchami",
+      "nakshtram": "Anuraadha",
+      "rahukalam": "08:42:25-10:08:54",
+      "durmuhoortham": "13:24:56-14:11:04"
+    },
+    {
+      "date": "2024-10-08",
+      "tithi": "Shukla Shashthi",
+      "nakshtram": "Jyeshtha",
+      "rahukalam": "15:54:01-17:20:14",
+      "durmuhoortham": "09:34:42-10:20:40"
+    },
+    {
+      "date": "2024-10-09",
+      "tithi": "Shukla Saptami",
+      "nakshtram": "Mula",
+      "rahukalam": "13:01:20-14:27:16",
+      "durmuhoortham": "12:38:25-13:24:15"
+    },
+    {
+      "date": "2024-10-10",
+      "tithi": "Shukla Ashtami",
+      "nakshtram": "P.shadha ",
+      "rahukalam": "14:26:44-15:52:23",
+      "durmuhoortham": "11:06:51-11:52:32"
+    },
+    {
+      "date": "2024-10-11",
+      "tithi": "Shukla Navami",
+      "nakshtram": "U.shada",
+      "rahukalam": "11:35:26-13:00:49",
+      "durmuhoortham": "09:35:54-10:21:26"
+    },
+    {
+      "date": "2024-10-12",
+      "tithi": "Shukla Dashami",
+      "nakshtram": "Shravana",
+      "rahukalam": "10:10:21-11:35:27",
+      "durmuhoortham": "07:20:08-08:05:31"
+    },
+    {
+      "date": "2024-10-13",
+      "tithi": "Shukla Ekadashi",
+      "nakshtram": "Dhanishta",
+      "rahukalam": "17:14:50-18:39:40",
+      "durmuhoortham": "17:09:11-17:54:26"
+    },
+    {
+      "date": "2024-10-14",
+      "tithi": "Shukla Dvadashi",
+      "nakshtram": "Shatabhisha",
+      "rahukalam": "08:46:25-10:10:59",
+      "durmuhoortham": "13:22:39-14:07:45"
+    },
+    {
+      "date": "2024-10-15",
+      "tithi": "Shukla Trayodashi",
+      "nakshtram": "P.Bhadrapada",
+      "rahukalam": "15:48:28-17:12:45",
+      "durmuhoortham": "09:37:35-10:22:32"
+    },
+    {
+      "date": "2024-10-16",
+      "tithi": "Shukla Chaturdashi",
+      "nakshtram": "U.Bhadrapada",
+      "rahukalam": "12:59:40-14:23:42",
+      "durmuhoortham": "12:37:16-13:22:05"
+    },
+    {
+      "date": "2024-10-17",
+      "tithi": "Shukla Purnima",
+      "nakshtram": "Ashvini ",
+      "rahukalam": "14:23:13-15:46:58",
+      "durmuhoortham": "11:07:48-11:52:28"
+    },
+    {
+      "date": "2024-10-18",
+      "tithi": "Krishna Dvitiiya",
+      "nakshtram": "Bharani ",
+      "rahukalam": "11:35:48-12:59:17",
+      "durmuhoortham": "09:38:55-10:23:27"
+    },
+    {
+      "date": "2024-10-19",
+      "tithi": "Krishna  Tritiiya",
+      "nakshtram": "Krittika",
+      "rahukalam": "10:12:40-11:35:53",
+      "durmuhoortham": "07:26:15-08:10:38"
+    },
+    {
+      "date": "2024-10-20",
+      "tithi": "Krishna  Chaturthi",
+      "nakshtram": "Rohini ",
+      "rahukalam": "17:07:47-18:30:44",
+      "durmuhoortham": "17:02:15-17:46:29"
+    },
+    {
+      "date": "2024-10-21",
+      "tithi": "Krishna  Panchami",
+      "nakshtram": "Mrigashirsha",
+      "rahukalam": "08:50:44-10:13:25",
+      "durmuhoortham": "13:20:50-14:04:55"
+    },
+    {
+      "date": "2024-10-22",
+      "tithi": "Krishna Shashthi",
+      "nakshtram": "Aardra  ",
+      "rahukalam": "15:43:28-17:05:53",
+      "durmuhoortham": "09:40:50-10:24:47"
+    },
+    {
+      "date": "2024-10-23",
+      "tithi": "Krishna Saptami",
+      "nakshtram": "Punarvasu",
+      "rahukalam": "12:58:30-14:20:39",
+      "durmuhoortham": "12:36:35-13:20:24"
+    },
+    {
+      "date": "2024-10-24",
+      "tithi": "Krishna Ashtami",
+      "nakshtram": "Pushya",
+      "rahukalam": "14:20:16-15:42:10",
+      "durmuhoortham": "14:20:16-15:42:10"
+    },
+    {
+      "date": "2024-10-25",
+      "tithi": "Krishna Navami",
+      "nakshtram": "Aslesha ",
+      "rahukalam": "11:36:38-12:58:16",
+      "durmuhoortham": "09:42:21-10:25:53"
+    },
+    {
+      "date": "2024-10-26",
+      "tithi": "Krishna Dashami",
+      "nakshtram": "magha",
+      "rahukalam": "10:15:25-11:36:48",
+      "durmuhoortham": "07:32:40-08:16:04"
+    },
+    {
+      "date": "2024-10-27",
+      "tithi": "Krishna Ekadashi",
+      "nakshtram": "P.Phalguni ",
+      "rahukalam": "17:01:27-18:22:34",
+      "durmuhoortham": "16:56:02-17:39:18"
+    },
+    {
+      "date": "2024-10-28",
+      "tithi": "Krishna Dvadashi",
+      "nakshtram": "U.Phalguni ",
+      "rahukalam": "08:55:25-10:16:17",
+      "durmuhoortham": "13:19:35-14:02:42"
+    },
+    {
+      "date": "2024-10-29",
+      "tithi": "Krishna Trayodashi",
+      "nakshtram": "U.Phalguni ",
+      "rahukalam": "15:39:11-16:59:48",
+      "durmuhoortham": "09:44:29-10:27:29"
+    },
+    {
+      "date": "2024-10-30",
+      "tithi": "Krishna Chaturdashi",
+      "nakshtram": "Hasta",
+      "rahukalam": "12:57:55-14:18:16",
+      "durmuhoortham": "12:36:29-13:19:20"
+    },
+    {
+      "date": "2024-10-31",
+      "tithi": "Krishna Amavasya",
+      "nakshtram": "Chitra ",
+      "rahukalam": "14:18:00-15:38:06",
+      "durmuhoortham": "11:11:04-11:53:47"
+    },
+    {
+      "date": "2024-11-01",
+      "tithi": "Krishna Amavasya",
+      "nakshtram": "Svaati ",
+      "rahukalam": "11:38:00-12:57:52",
+      "durmuhoortham": "09:46:11-10:28:47"
+    },
+    {
+      "date": "2024-11-02",
+      "tithi": "Shukla Prathama",
+      "nakshtram": "Vishaakha ",
+      "rahukalam": "10:18:37-11:38:14",
+      "durmuhoortham": "07:39:22-08:21:50"
+    },
+    {
+      "date": "2024-11-03",
+      "tithi": "Shukla Dvitiiya",
+      "nakshtram": "Anuraadha",
+      "rahukalam": "15:56:00-17:15:23",
+      "durmuhoortham": "15:50:43-16:33:03"
+    },
+    {
+      "date": "2024-11-04",
+      "tithi": "Shukla Tritiiya",
+      "nakshtram": "Jyeshtha",
+      "rahukalam": "08:00:28-09:19:37",
+      "durmuhoortham": "12:18:59-13:01:12"
+    },
+    {
+      "date": "2024-11-05",
+      "tithi": "Shukla Chaturthi",
+      "nakshtram": "Mula",
+      "rahukalam": "14:35:44-15:54:38",
+      "durmuhoortham": "08:48:34-09:30:38"
+    },
+    {
+      "date": "2024-11-06",
+      "tithi": "Shukla Panchami",
+      "nakshtram": "P.shadha ",
+      "rahukalam": "11:57:58-13:16:38",
+      "durmuhoortham": "11:37:00-12:18:57"
+    },
+    {
+      "date": "2024-11-07",
+      "tithi": "Shukla Shashthi",
+      "nakshtram": "U.shada",
+      "rahukalam": "13:16:28-14:34:54",
+      "durmuhoortham": "10:13:27-10:55:17"
+    },
+    {
+      "date": "2024-11-08",
+      "tithi": "Shukla Saptami",
+      "nakshtram": "Shravana",
+      "rahukalam": "10:39:55-11:58:07",
+      "durmuhoortham": "08:50:25-09:32:08"
+    },
+    {
+      "date": "2024-11-09",
+      "tithi": "Shukla Ashtami",
+      "nakshtram": "Dhanishta",
+      "rahukalam": "09:22:15-10:40:14",
+      "durmuhoortham": "06:46:17-07:27:53"
+    },
+    {
+      "date": "2024-11-10",
+      "tithi": "Shukla Navami",
+      "nakshtram": "Shatabhisha",
+      "rahukalam": "15:51:35-17:09:20",
+      "durmuhoortham": "15:46:24-16:27:52"
+    },
+    {
+      "date": "2024-11-11",
+      "tithi": "Shukla Dashami",
+      "nakshtram": "P.Bhadrapada",
+      "rahukalam": "08:05:49-09:23:21",
+      "durmuhoortham": "12:19:06-13:00:28"
+    },
+    {
+      "date": "2024-11-12",
+      "tithi": "Shukla Dvadashi",
+      "nakshtram": "U.Bhadrapada",
+      "rahukalam": "14:33:12-15:50:31",
+      "durmuhoortham": "08:53:00-09:34:14"
+    },
+    {
+      "date": "2024-11-13",
+      "tithi": "Shukla Trayodashi",
+      "nakshtram": "Revati ",
+      "rahukalam": "11:58:43-13:15:49",
+      "durmuhoortham": "11:38:09-12:19:16"
+    },
+    {
+      "date": "2024-11-14",
+      "tithi": "Shukla Chaturdashi",
+      "nakshtram": "Ashvini ",
+      "rahukalam": "13:15:46-14:32:40",
+      "durmuhoortham": "10:16:21-10:57:21"
+    },
+    {
+      "date": "2024-11-15",
+      "tithi": "Shukla Purnima",
+      "nakshtram": "Bharani ",
+      "rahukalam": "10:42:21-11:59:03",
+      "durmuhoortham": "08:54:59-09:35:53"
+    },
+    {
+      "date": "2024-11-16",
+      "tithi": "Krishna Prathama",
+      "nakshtram": "Krittika",
+      "rahukalam": "09:26:16-10:42:45",
+      "durmuhoortham": "06:53:17-07:34:05"
+    },
+    {
+      "date": "2024-11-17",
+      "tithi": "Krishna Dvitiiya",
+      "nakshtram": "Mrigashirsha",
+      "rahukalam": "15:48:19-17:04:36",
+      "durmuhoortham": "15:43:14-16:23:55"
+    },
+    {
+      "date": "2024-11-18",
+      "tithi": "Krishna  Tritiiya",
+      "nakshtram": "Aardra ",
+      "rahukalam": "08:11:22-09:27:28",
+      "durmuhoortham": "12:19:57-13:00:32"
+    },
+    {
+      "date": "2024-11-19",
+      "tithi": "Krishna  Chaturthi",
+      "nakshtram": "Punarvasu",
+      "rahukalam": "14:31:42-15:47:36",
+      "durmuhoortham": "08:57:43-09:38:12"
+    },
+    {
+      "date": "2024-11-20",
+      "tithi": "Krishna Shashthi",
+      "nakshtram": "Pushya",
+      "rahukalam": "12:00:08-13:15:51",
+      "durmuhoortham": "11:39:56-12:20:20"
+    },
+    {
+      "date": "2024-11-21",
+      "tithi": "Krishna Saptami",
+      "nakshtram": "Aslesha ",
+      "rahukalam": "13:15:56-14:31:28",
+      "durmuhoortham": "10:19:41-10:59:58"
+    },
+    {
+      "date": "2024-11-22",
+      "tithi": "Krishna Saptami",
+      "nakshtram": "magha",
+      "rahukalam": "10:45:18-12:00:40",
+      "durmuhoortham": "08:59:48-09:39:59"
+    },
+    {
+      "date": "2024-11-23",
+      "tithi": "Krishna Ashtami",
+      "nakshtram": "magha",
+      "rahukalam": "09:30:34-10:45:46",
+      "durmuhoortham": "07:00:12-07:40:18"
+    },
+    {
+      "date": "2024-11-24",
+      "tithi": "Krishna Navami",
+      "nakshtram": "P.Phalguni ",
+      "rahukalam": "15:46:19-17:01:20",
+      "durmuhoortham": "15:41:19-16:21:19"
+    },
+    {
+      "date": "2024-11-25",
+      "tithi": "Krishna Dashami",
+      "nakshtram": "U.Phalguni ",
+      "rahukalam": "08:16:59-09:31:51",
+      "durmuhoortham": "12:21:31-13:01:27"
+    },
+    {
+      "date": "2024-11-26",
+      "tithi": "Krishna Ekadashi",
+      "nakshtram": "Hasta",
+      "rahukalam": "14:31:17-15:45:59",
+      "durmuhoortham": "09:02:36-09:42:27"
+    },
+    {
+      "date": "2024-11-27",
+      "tithi": "Krishna Dvadashi",
+      "nakshtram": "Chitra ",
+      "rahukalam": "12:02:13-13:16:46",
+      "durmuhoortham": "11:42:21-12:22:06"
+    },
+    {
+      "date": "2024-11-28",
+      "tithi": "Krishna Trayodashi",
+      "nakshtram": "Svaati ",
+      "rahukalam": "13:16:58-14:31:22",
+      "durmuhoortham": "10:23:23-11:03:03"
+    },
+    {
+      "date": "2024-11-29",
+      "tithi": "Krishna  Chaturthi",
+      "nakshtram": "Vishaakha ",
+      "rahukalam": "10:48:41-12:02:56",
+      "durmuhoortham": "09:04:43-09:44:19"
+    },
+    {
+      "date": "2024-11-30",
+      "tithi": "Krishna Amavasya",
+      "nakshtram": "Anuraadha",
+      "rahukalam": "09:35:04-10:49:11",
+      "durmuhoortham": "07:06:50-07:46:21"
+    },
+    {
+      "date": "2024-12-01",
+      "tithi": "Shukla Prathama",
+      "nakshtram": "Jyeshtha",
+      "rahukalam": "15:45:40-16:59:39",
+      "durmuhoortham": "15:40:44-16:20:11"
+    },
+    {
+      "date": "2024-12-02",
+      "tithi": "Shukla Dvitiiya",
+      "nakshtram": "Mula",
+      "rahukalam": "08:22:30-09:36:21",
+      "durmuhoortham": "12:23:47-13:03:11"
+    },
+    {
+      "date": "2024-12-03",
+      "tithi": "Shukla Tritiiya",
+      "nakshtram": "P.shadha ",
+      "rahukalam": "14:31:59-15:45:43",
+      "durmuhoortham": "09:07:30-09:46:50"
+    },
+    {
+      "date": "2024-12-04",
+      "tithi": "Shukla Chaturthi",
+      "nakshtram": "U.shada",
+      "rahukalam": "12:04:54-13:18:32",
+      "durmuhoortham": "11:45:16-12:24:32"
+    },
+    {
+      "date": "2024-12-05",
+      "tithi": "Shukla Panchami",
+      "nakshtram": "Shravana",
+      "rahukalam": "13:18:51-14:32:22",
+      "durmuhoortham": "10:27:18-11:06:30"
+    },
+    {
+      "date": "2024-12-06",
+      "tithi": "Shukla Shashthi",
+      "nakshtram": "Dhanishta",
+      "rahukalam": "10:52:20-12:05:45",
+      "durmuhoortham": "09:09:33-09:48:42"
+    },
+    {
+      "date": "2024-12-07",
+      "tithi": "Shukla Saptami",
+      "nakshtram": "Shatabhisha",
+      "rahukalam": "09:39:33-10:52:52",
+      "durmuhoortham": "07:12:53-07:52:00"
+    },
+    {
+      "date": "2024-12-08",
+      "tithi": "Shukla Ashtami",
+      "nakshtram": "P.Bhadrapada",
+      "rahukalam": "15:46:21-16:59:36",
+      "durmuhoortham": "15:41:28-16:20:32"
+    },
+    {
+      "date": "2024-12-09",
+      "tithi": "Shukla Navami",
+      "nakshtram": "U.Bhadrapada",
+      "rahukalam": "08:27:38-09:40:47",
+      "durmuhoortham": "12:26:36-13:05:37"
+    },
+    {
+      "date": "2024-12-10",
+      "tithi": "Shukla Dashami",
+      "nakshtram": "Revati ",
+      "rahukalam": "14:33:43-15:46:48",
+      "durmuhoortham": "09:12:10-09:51:09"
+    },
+    {
+      "date": "2024-12-11",
+      "tithi": "Shukla Ekadashi",
+      "nakshtram": "Ashvini ",
+      "rahukalam": "12:08:01-13:21:02",
+      "durmuhoortham": "11:48:33-12:27:30"
+    },
+    {
+      "date": "2024-12-12",
+      "tithi": "Shukla Dvadashi",
+      "nakshtram": "Bharani ",
+      "rahukalam": "13:21:27-14:34:23",
+      "durmuhoortham": "10:31:14-11:10:08"
+    },
+    {
+      "date": "2024-12-13",
+      "tithi": "Shukla Trayodashi",
+      "nakshtram": "Krittika",
+      "rahukalam": "10:56:05-12:08:58",
+      "durmuhoortham": "09:14:02-09:52:55"
+    },
+    {
+      "date": "2024-12-14",
+      "tithi": "Shukla Purnima",
+      "nakshtram": "Rohini ",
+      "rahukalam": "09:43:46-10:56:37",
+      "durmuhoortham": "07:18:05-07:56:56"
+    },
+    {
+      "date": "2024-12-15",
+      "tithi": "Krishna Prathama",
+      "nakshtram": "Mrigashirsha",
+      "rahukalam": "15:48:20-17:01:08",
+      "durmuhoortham": "15:43:29-16:22:19"
+    },{
+      "date": "2024-12-16",
+      "tithi": "Krishna Dvitiiya",
+      "nakshtram": "Aardra  ",
+      "rahukalam": "08:32:09-09:44:54",
+      "durmuhoortham": "12:29:50-13:08:39"
+    },
+    {
+      "date": "2024-12-17",
+      "tithi": "Krishna Tritiiya",
+      "nakshtram": "Punarvasu",
+      "rahukalam": "14:36:24-15:49:08",
+      "durmuhoortham": "09:16:22-09:55:09"
+    },
+    {
+      "date": "2024-12-18",
+      "tithi": "Krishna  Chaturthi",
+      "nakshtram": "Pushya",
+      "rahukalam": "12:11:25-13:24:08",
+      "durmuhoortham": "11:52:02-12:30:49"
+    },
+    {
+      "date": "2024-12-19",
+      "tithi": "Krishna  Panchami",
+      "nakshtram": "Aslesha ",
+      "rahukalam": "13:24:37-14:37:19",
+      "durmuhoortham": "10:35:00-11:13:46"
+    },
+    {
+      "date": "2024-12-20",
+      "tithi": "Krishna Shashthi",
+      "nakshtram": "magha",
+      "rahukalam": "10:59:44-12:12:25",
+      "durmuhoortham": "09:17:58-09:56:44"
+    },
+    {
+      "date": "2024-12-21",
+      "tithi": "Krishna Saptami",
+      "nakshtram": "P.Phalguni ",
+      "rahukalam": "09:47:33-11:00:14",
+      "durmuhoortham": "07:22:10-08:00:56"
+    },
+    {
+      "date": "2024-12-22",
+      "tithi": "Krishna Ashtami",
+      "nakshtram": "U.Phalguni ",
+      "rahukalam": "15:51:31-17:04:12",
+      "durmuhoortham": "15:46:40-16:25:26"
+    },
+    {
+      "date": "2024-12-23",
+      "tithi": "Krishna Navami",
+      "nakshtram": "Hasta",
+      "rahukalam": "08:35:49-09:48:31",
+      "durmuhoortham": "12:33:19-13:12:06"
+    },
+    {
+      "date": "2024-12-24",
+      "tithi": "Krishna Navami",
+      "nakshtram": "Chitra ",
+      "rahukalam": "14:39:53-15:52:37",
+      "durmuhoortham": "09:19:53-09:58:41"
+    },
+    {
+      "date": "2024-12-26",
+      "tithi": "Krishna Ekadashi",
+      "nakshtram": "Svaati ",
+      "rahukalam": "13:28:13-14:41:01",
+      "durmuhoortham": "10:38:23-11:17:12"
+    },
+    {
+      "date": "2024-12-27",
+      "tithi": "Krishna Dvadashi",
+      "nakshtram": "Vishaakha ",
+      "rahukalam": "11:03:06-12:15:56",
+      "durmuhoortham": "09:21:09-09:59:59"
+    },
+    {
+      "date": "2024-12-28",
+      "tithi": "Krishna Trayodashi",
+      "nakshtram": "Anuraadha",
+      "rahukalam": "09:50:41-11:03:33",
+      "durmuhoortham": "07:24:56-08:03:48"
+    },
+    {
+      "date": "2024-12-29",
+      "tithi": "Krishna Chaturdashi",
+      "nakshtram": "Jyeshtha",
+      "rahukalam": "15:55:42-17:08:38",
+      "durmuhoortham": "15:50:51-16:29:44"
+    },
+    {
+      "date": "2024-12-30",
+      "tithi": "Krishna Amavasya",
+      "nakshtram": "Mula",
+      "rahukalam": "08:38:26-09:51:26",
+      "durmuhoortham": "12:36:52-13:15:48"
+    },
+    {
+      "date": "2024-12-31",
+      "tithi": "Shukla Prathama",
+      "nakshtram": "P.shadha ",
+      "rahukalam": "14:44:00-15:57:04",
+      "durmuhoortham": "09:22:33-10:01:31"
+    } 
+  ]
+}
